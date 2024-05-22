@@ -408,16 +408,16 @@
         "Link": "https://twitter.com/BibliotecaNalCo/status/1764280524862787806"
     },
     {
-"lat": 4.60971,
-"lng": -75.08175,
+"lat": -2.732,
+"lng": -67.810,
         "Sectorocategoríaprincipal": "Artes y culturas",
         "Departamento": "AMAZONAS ANTIOQUIA ARAUCA ARCHIPIÉLAGO DE SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA ATLÁNTICO BOGOTÁ D.C. BOLÍVAR BOYACÁ CALDAS CAQUETÁ CASANARE CAUCA CESAR CHOCÓ CÓRDOBA CUNDINAMARCA GUAINÍA GUAVIARE HUILA LA GUAJIRA MAGDALENA META NARIÑO NORTE DE SANTANDER PUTUMAYO QUINDIO RISARALDA SANTANDER SUCRE TOLIMA VALLE DEL CAUCA VAUPÉS VICHADA",
         "Resumen": "LEO la vida' es la nueva apuesta del renovado Plan Nacional de Lectura, Escritura, Oralidad y Bibliotecas (PNLEOB), el cual, trabajará para desarrollar un proceso de implementación desde un enfoque territorial y poblacional diferencial, respondiendo a la diversidad lingüística y cultural de nuestro país. Ejemplo de ello es el caso de la creación de un plan específico de lectura, escritura, oralidad y bibliotecas para el CHOCÓ.  El Plan integra a las bibliotecas escolares, a las públicas, comunitarias, populares, itinerantes, rurales itinerantes, como espacios privilegiados para el encuentro, la conversación, el diálogo, el aprendizaje; así mismo, para la creación artística, la transmisión, producción y apropiación social de conocimientos, saberes y memorias.  Entre otras acciones realiza: • Dotación de colecciones de actualización bibliográfica, para primera infancia e infancia, jóvenes y adultos, en diversas áreas del conocimiento y géneros literarios. • Dotación de maletas especializadas para la mediación lectora con primera infancia e infancia. • Dotación bibliográfica de fortalecimiento rural.",
         "Link": "https://www.mineducacion.gov.co/portal/salaprensa/Comunicados/420484:El-Gobierno-Nacional-presenta-las-lineas-estrategicas-para-fortalecer-en-2024-la-lectura-la-escritura-la-oralidad-y-las-bibliotecas"
     },
     {
-"lat": 4.60971,
-"lng": -75.08175,
+"lat": -0.561,
+"lng": -73.928,
         "Sectorocategoríaprincipal": "Artes y culturas",
         "Departamento": "AMAZONAS ANTIOQUIA ARAUCA ATLÁNTICO BOGOTÁ D.C. BOLÍVAR BOYACÁ CALDAS CAQUETÁ CASANARE CAUCA CESAR CHOCÓ CÓRDOBA CUNDINAMARCA GUAINÍA GUAVIARE HUILA LA GUAJIRA MAGDALENA META NARIÑO NORTE DE SANTANDER PUTUMAYO QUINDIO RISARALDA SANTANDER SUCRE TOLIMA VALLE DEL CAUCA VICHADA",
         "Resumen": "La Red Nacional de Bibliotecas Públicas -RNBP- está conformada por 1.557 bibliotecas públicas y 629 bibliotecas rurales itinerantes - BRI, haciendo presencia en el 99,9 % de los municipios, con el objetivo de promover el acceso libre y gratuito a la información, el conocimiento, la lectura y las diversas manifestaciones artísticas y culturales por parte de las comunidades del territorio nacional. ​  En 2023 se fortalecieron el 100% de Bibliotecas Rurales Itinerantes",
@@ -443,10 +443,20 @@
 "lat": 4.60971,
 "lng": -75.08175,
         "Sectorocategoríaprincipal": "Artes y culturas",
-        "Departamento": "ANTIOQUIA CHOCÓ",
+        "Departamento": "CHOCÓ",
         "Resumen": "En 2024 la estrategia #CulturaDePaz ha acompañado directamente 25 iniciativas territoriales para fortalecer su gestión y reconocer sus aportes en la construcción de paz, a la luz de la pregunta cómo abordar los cambios culturales mediante manifestaciones artísticas",
         "Link": "https://twitter.com/mincultura/status/1787834655409893652"
     },
+
+    {
+        "lat": 7.123,
+        "lng": -75.932,
+                "Sectorocategoríaprincipal": "Artes y culturas",
+                "Departamento": "ANTIOQUIA",
+                "Resumen": "En 2024 la estrategia #CulturaDePaz ha acompañado directamente 25 iniciativas territoriales para fortalecer su gestión y reconocer sus aportes en la construcción de paz, a la luz de la pregunta cómo abordar los cambios culturales mediante manifestaciones artísticas",
+                "Link": "https://twitter.com/mincultura/status/1787834655409893652"
+            },
+            
     {
 "lat": 4.60971,
 "lng": -75.08175,
@@ -792,8 +802,8 @@
         "Link": "Colombia ratifica su compromiso con la implementación de los Indicadores Iberoamericanos del Deporte para el Desarrollo - MinDeporte"
     },
     {
-"lat": 4.60971,
-"lng": -75.08175,
+"lat": 6.456,
+"lng": -76.123,
         "Sectorocategoríaprincipal": "Derechos y proyectos",
         "Departamento": "ANTIOQUIA",
         "Resumen": "El DPS en asociación con Programa Mundial de Alimentos apoyó la Economía de 9.300 hogares a partir de la implementación de unidades productivas para el autoconsumo y alimentación Saludable en 5 departamentos, entre ellos Antioquia",
@@ -1232,8 +1242,8 @@
         "Link": "https://twitter.com/InnpulsaCol/status/1779151872311382258"
     },
     {
-"lat": 4.60971,
-"lng": -75.08175,
+"lat": 8.234,
+"lng": -75.543,
         "Sectorocategoríaprincipal": "Economía",
         "Departamento": "ANTIOQUIA",
         "Resumen": "Se pusieron en marcha 9 centros de reindustrialización ZASCA ubicados en Bogotá, Medellín, Bucaramanga, Cúcuta, Riohacha y Baranoa para beneficiar a 950 unidades productivas y personas privadas de la libertad: la meta son 68 a 2025, mínimo 1 por departamento.  Centro de Reindustrialización ZASCA Medellín",
@@ -1296,8 +1306,8 @@
         "Link": "https://twitter.com/EAMdelquindio/status/1750200069427470681 "
     },
     {
-"lat": 4.60971,
-"lng": -75.08175,
+"lat": 5.876,
+"lng": -75.234,
         "Sectorocategoríaprincipal": "Economía",
         "Departamento": "ANTIOQUIA BOGOTÁ D.C. CALDAS SANTANDER VALLE DEL CAUCA",
         "Resumen": "Aldea Global es una estrategia para acelerar emprendimientos de alto impacto en etapa de expansión global y un modelo escalable a nivel internacional.  Entre el 7 y el 11 de agosto de 2023 se realizó en São Paulo (Brasil) la semana de inmersión del programa ALDEA 2023 que benefició a 11 emprendimientos de  Antioquia, Bogotá D.C., Caldas, Santander, Valle del Cauca",
@@ -1336,8 +1346,8 @@
         "Link": "https://www.mincit.gov.co/prensa/noticias/industria/destacan-avances-en-reindustrializacion-del-pais  https://twitter.com/MincomercioCo/status/1782032286369915179 "
     },
     {
-"lat": 4.60971,
-"lng": -75.08175,
+"lat": 7.789,
+"lng": -76.543,
         "Sectorocategoríaprincipal": "Economía",
         "Departamento": "AMAZONAS ANTIOQUIA ARAUCA ATLÁNTICO BOGOTÁ D.C. BOYACÁ CAQUETÁ CASANARE CHOCÓ CUNDINAMARCA GUAVIARE HUILA META NARIÑO NORTE DE SANTANDER PUTUMAYO QUINDÍO RISARALDA SANTANDER TOLIMA VALLE DEL CAUCA",
         "Resumen": "programa FortaleSER con acceso a mejores prácticas empresariales, mayor productividad y potenciar sus habilidades de liderazgo ha atendido más de 2.500 emprendedores en 2023 en 105 municipios de 20 departamentos, y actualmente está abierta la convocatoria para 4.200 emprendedores y emprendedoras",
