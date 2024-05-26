@@ -1,0 +1,1242 @@
+[
+    {
+        "lat": 5.539898,
+        "lng": -73.355543,
+        "Departamento": "Boyacá",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "En el Gobierno del Cambio se han constituido 6 Zonas de Reserva Campesina que suman 412 mil Hectáreas, entre ellas la ZRC Sumapaz",
+        "Link": "https://twitter.com/UPRAColombia/status/1782095895774835173"
+    },
+    {
+        "lat": 4.970857,
+        "lng": -73.378933,
+        "Departamento": "Arauca",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "En el Gobierno del Cambio se han constituido 6 Zonas de Reserva Campesina que suman 412 mil Hectáreas, entre ellas la ZR La Tuna",
+        "Link": "https://twitter.com/UPRAColombia/status/1782095895774835173"
+    },
+    {
+        "lat": 5.518602,
+        "lng": -72.88399,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "En el Gobierno del Cambio se han constituido 6 Zonas de Reserva Campesina que suman 412 mil Hectáreas, entre ellas la ZRC Güejar - Cafre",
+        "Link": "https://twitter.com/UPRAColombia/status/1782095895774835173"
+    },
+    {
+        "lat": 5.288801,
+        "lng": -72.98847,
+        "Departamento": "Bogotá D.C.",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "En el Gobierno del Cambio se han constituido 6 Zonas de Reserva Campesina que suman 412 mil Hectáreas, entre ellas la ZRC Losada - Guayabero",
+        "Link": "https://twitter.com/UPRAColombia/status/1782095895774835173"
+    },
+    {
+        "lat": 5.517465,
+        "lng": -72.783323,
+        "Departamento": "Bolívar",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "En el Gobierno del Cambio se han constituido 6 Zonas de Reserva Campesina que suman 412 mil Hectáreas, entre ellas la ZRC Paraíso Escondido",
+        "Link": "https://twitter.com/UPRAColombia/status/1782095895774835173"
+    },
+    {
+        "lat": 5.057655,
+        "lng": -75.491018,
+        "Departamento": "Caldas",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "En el Gobierno del Cambio se han constituido 6 Zonas de Reserva Campesina que suman 412 mil Hectáreas, entre ellas la ZRC Venecia Parte Alta",
+        "Link": "https://twitter.com/UPRAColombia/status/1782095895774835173"
+    },
+    {
+        "lat": 1.619234,
+        "lng": -75.709796,
+        "Departamento": "Caquetá",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "\"Colombia tiene el mejor cacao del mundo\", así se definió en el concurso internacional Cacao of Excellence, en Países Bajos (Amsterdam) en febrero 2024",
+        "Link": "https://forbes.co/2024/02/09/actualidad/colombia-tiene-el-mejor-cacao-del-mundo"
+    },
+    {
+        "lat": 5.332863,
+        "lng": -72.394588,
+        "Departamento": "Casanare",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "Está en construcción la Política de Mujer Rural junto a todas las mujeres rurales del país: campesinas, afrodescendientes, indígenas, pesqueras y todas.",
+        "Link": "https://twitter.com/MinAgricultura/status/1782092954858881173"
+    },
+    {
+        "lat": 2.482561,
+        "lng": -76.57422,
+        "Departamento": "Cauca",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "Se han realizado más de 150 mil créditos por cerca de $3 billones para las y los caficultores del país de 15 departamentos, principalmente en Huila, Antioquia, Cauca, Tolima, Caldas",
+        "Link": "https://twitter.com/MinAgricultura/status/1781375044557373554"
+    },
+    {
+        "lat": 10.460472,
+        "lng": -73.259398,
+        "Departamento": "Cesar",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "Se han realizado más de 150 mil créditos por cerca de $3 billones para las y los caficultores del país de 15 departamentos, principalmente en Huila, Antioquia, Cauca, Tolima, Caldas",
+        "Link": "https://twitter.com/MinAgricultura/status/1781375044557373554"
+    },
+    {
+        "lat": 5.690997,
+        "lng": -76.626533,
+        "Departamento": "Chocó",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "Se han realizado más de 150 mil créditos por cerca de $3 billones para las y los caficultores del país de 15 departamentos, principalmente en Huila, Antioquia, Cauca, Tolima, Caldas",
+        "Link": "https://twitter.com/MinAgricultura/status/1781375044557373554"
+    },
+    {
+        "lat": 8.74513,
+        "lng": -75.875576,
+        "Departamento": "Córdoba",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "Se han realizado más de 150 mil créditos por cerca de $3 billones para las y los caficultores del país de 15 departamentos, principalmente en Huila, Antioquia, Cauca, Tolima, Caldas",
+        "Link": "https://twitter.com/MinAgricultura/status/1781375044557373554"
+    },
+    {
+        "lat": 4.375309,
+        "lng": -74.669221,
+        "Departamento": "Cundinamarca",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "Se han realizado más de 150 mil créditos por cerca de $3 billones para las y los caficultores del país de 15 departamentos, principalmente en Huila, Antioquia, Cauca, Tolima, Caldas",
+        "Link": "https://twitter.com/MinAgricultura/status/1781375044557373554"
+    },
+    {
+        "lat": 2.566394,
+        "lng": -72.639024,
+        "Departamento": "Guaviare",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "Se realizará la primera Feria de Agricultura Familiar, Campesina y Comunitaria en Colombia en junio de 2024 que tendrá una participación de alrededor de 600 cooperativas y asociaciones campesinas",
+        "Link": "https://twitter.com/MinAgricultura/status/1781292343334711702"
+    },
+    {
+        "lat": 10.715407,
+        "lng": -73.397275,
+        "Departamento": "Huila",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "Se realizará la \"Cumbre Campesina, rumbo a la #COP16\" donde las poblaciones rurales y étnicas, y organizaciones y cooperativas campesinas compartirán sus experiencias de aporte al cuidado y preservación de la naturaleza que dialoga con la producción de alimentos",
+        "Link": "https://twitter.com/MinAgricultura/status/1782577175717167348"
+    },
+    {
+        "lat": 11.528588,
+        "lng": -72.911797,
+        "Departamento": "La Guajira",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "El gobierno estadounidense certifica a Colombia para la exportación de camarones a EE.UU.\r\n\r\nLa certificación oficial está programada para mayo de 2024 Representantes de la NOAA y el Departamento de Estado de EE.UU. inspeccionaron embarcaciones de arrastre camaronero en Tolú y Buenaventura, verificando el uso de Dispositivos Excluidores de Tortugas (DET), alcanzando un 93% de cumplimiento!",
+        "Link": "https://www.eltiempo.com/economía/sectores/estados-unidos-certifica-a-colombia-para-la-exportacion-de-camarones-802050"
+    },
+    {
+        "lat": 11.204685,
+        "lng": -74.200077,
+        "Departamento": "Magdalena",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "Primera exportación de huevo a Cuba en 2024 al contar con el certificado zoosanitario de exportación al autodeclarado ante la Organización Mundial de Sanidad Animal como país libre de influenza aviar y la enfermedad de Newcastle ",
+        "Link": "https://www.agronet.gov.co/Noticias/Paginas/Colombia-exporta-por-primera-vez-huevo-a-Cuba-y-espera-mantener-ese-mercado.aspx#:~:text=En%20febrero%20de%202024%20se,de%20producci%C3%B3n%20en%20nuestro%20pa%C3%ADs."
+    },
+    {
+        "lat": 4.127404,
+        "lng": -73.627486,
+        "Departamento": "Meta",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "Japón levantó la suspensión a Colombia en 2023 para la exportación de carne de pollo gracias al trabajo de ICA COLOMBIA ",
+        "Link": "https://www.ica.gov.co/noticias/colombia-podra-exportar-carne-pollo-japon"
+    },
+    {
+        "lat": 1.212022,
+        "lng": -77.278597,
+        "Departamento": "Nariño",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "Alianza entre la Agencia de Desarrollo Rural y Universidad de Cartagena para la prestación del servicio de Extensión Agropecuaria en Bolívar que beneficiará a 4.679 productores en 46 municipios del departamento mediante convenio por $5.6 mil millones",
+        "Link": "https://www.instagram.com/p/Cyi0tdxgxVF/?next=%2Fp%2FBjauyIwBC9S%2F&hl=hi&img_index=1"
+    },
+    {
+        "lat": 7.905613,
+        "lng": -72.508577,
+        "Departamento": "Norte De Santander",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "Alemania y Colombia firman acuerdo de cooperación para promover la agroecología y la agricultura sostenible en el país",
+        "Link": "https://lanotaeconomica.com.co/movidas-empresarial/alemania-y-colombia-firman-acuerdo-de-cooperacion-para-promover-la-agroecologia-y-la-agricultura-sostenible-en-el-pais/"
+    },
+    {
+        "lat": 1.152296,
+        "lng": -76.650271,
+        "Departamento": "Putumayo",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "Escuela de Intercambio de Saberes para el Desarrollo Rural impulsó el fortalecimiento de las capacidades de 201 organizaciones apoyadas por el proyecto El Campo Emprende, una estrategia liderada por el Ministerio de Agricultura y Ecopetrol. Mediante este programa se entregaron incentivos económicos y se promovió el acceso a espacios para el intercambio de saberes.",
+        "Link": "https://www.minagricultura.gov.co/noticias/Paginas/Escuela-de-Saberes-de-MinAgricultura-y-Ecopetrol-fortaleci%C3%B3-capacidades-de-m%C3%A1s-de-200-emprendedores-rurales.aspx"
+    },
+    {
+        "lat": 4.53598,
+        "lng": -75.680787,
+        "Departamento": "Quindío\r\n",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "Escuela de Intercambio de Saberes para el Desarrollo Rural impulsó el fortalecimiento de las capacidades de 201 organizaciones apoyadas por el proyecto El Campo Emprende, una estrategia liderada por el Ministerio de Agricultura y Ecopetrol. Mediante este programa se entregaron incentivos económicos y se promovió el acceso a espacios para el intercambio de saberes.",
+        "Link": "https://www.minagricultura.gov.co/noticias/Paginas/Escuela-de-Saberes-de-MinAgricultura-y-Ecopetrol-fortaleci%C3%B3-capacidades-de-m%C3%A1s-de-200-emprendedores-rurales.aspx"
+    },
+    {
+        "lat": 4.72983,
+        "lng": -75.685154,
+        "Departamento": "Risaralda",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "Escuela de Intercambio de Saberes para el Desarrollo Rural impulsó el fortalecimiento de las capacidades de 201 organizaciones apoyadas por el proyecto El Campo Emprende, una estrategia liderada por el Ministerio de Agricultura y Ecopetrol. Mediante este programa se entregaron incentivos económicos y se promovió el acceso a espacios para el intercambio de saberes.",
+        "Link": "https://www.minagricultura.gov.co/noticias/Paginas/Escuela-de-Saberes-de-MinAgricultura-y-Ecopetrol-fortaleci%C3%B3-capacidades-de-m%C3%A1s-de-200-emprendedores-rurales.aspx"
+    },
+    {
+        "lat": 6.905795,
+        "lng": -73.901921,
+        "Departamento": "Santander",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "Escuela de Intercambio de Saberes para el Desarrollo Rural impulsó el fortalecimiento de las capacidades de 201 organizaciones apoyadas por el proyecto El Campo Emprende, una estrategia liderada por el Ministerio de Agricultura y Ecopetrol. Mediante este programa se entregaron incentivos económicos y se promovió el acceso a espacios para el intercambio de saberes.",
+        "Link": "https://www.minagricultura.gov.co/noticias/Paginas/Escuela-de-Saberes-de-MinAgricultura-y-Ecopetrol-fortaleci%C3%B3-capacidades-de-m%C3%A1s-de-200-emprendedores-rurales.aspx"
+    },
+    {
+        "lat": 9.247723,
+        "lng": -75.342273,
+        "Departamento": "Sucre\r\n",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "Escuela de Intercambio de Saberes para el Desarrollo Rural impulsó el fortalecimiento de las capacidades de 201 organizaciones apoyadas por el proyecto El Campo Emprende, una estrategia liderada por el Ministerio de Agricultura y Ecopetrol. Mediante este programa se entregaron incentivos económicos y se promovió el acceso a espacios para el intercambio de saberes.",
+        "Link": "https://www.minagricultura.gov.co/noticias/Paginas/Escuela-de-Saberes-de-MinAgricultura-y-Ecopetrol-fortaleci%C3%B3-capacidades-de-m%C3%A1s-de-200-emprendedores-rurales.aspx"
+    },
+    {
+        "lat": 4.567356,
+        "lng": -74.953418,
+        "Departamento": "Tolima",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "Escuela de Intercambio de Saberes para el Desarrollo Rural impulsó el fortalecimiento de las capacidades de 201 organizaciones apoyadas por el proyecto El Campo Emprende, una estrategia liderada por el Ministerio de Agricultura y Ecopetrol. Mediante este programa se entregaron incentivos económicos y se promovió el acceso a espacios para el intercambio de saberes.",
+        "Link": "https://www.minagricultura.gov.co/noticias/Paginas/Escuela-de-Saberes-de-MinAgricultura-y-Ecopetrol-fortaleci%C3%B3-capacidades-de-m%C3%A1s-de-200-emprendedores-rurales.aspx"
+    },
+    {
+        "lat": 3.414162,
+        "lng": -76.521469,
+        "Departamento": "Valle del Cauca",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "Escuela de Intercambio de Saberes para el Desarrollo Rural impulsó el fortalecimiento de las capacidades de 201 organizaciones apoyadas por el proyecto El Campo Emprende, una estrategia liderada por el Ministerio de Agricultura y Ecopetrol. Mediante este programa se entregaron incentivos económicos y se promovió el acceso a espacios para el intercambio de saberes.",
+        "Link": "https://www.minagricultura.gov.co/noticias/Paginas/Escuela-de-Saberes-de-MinAgricultura-y-Ecopetrol-fortaleci%C3%B3-capacidades-de-m%C3%A1s-de-200-emprendedores-rurales.aspx"
+    },
+    {
+        "lat": 1.253151,
+        "lng": -70.232641,
+        "Departamento": "Vaupés",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "Escuela de Intercambio de Saberes para el Desarrollo Rural impulsó el fortalecimiento de las capacidades de 201 organizaciones apoyadas por el proyecto El Campo Emprende, una estrategia liderada por el Ministerio de Agricultura y Ecopetrol. Mediante este programa se entregaron incentivos económicos y se promovió el acceso a espacios para el intercambio de saberes.",
+        "Link": "https://www.minagricultura.gov.co/noticias/Paginas/Escuela-de-Saberes-de-MinAgricultura-y-Ecopetrol-fortaleci%C3%B3-capacidades-de-m%C3%A1s-de-200-emprendedores-rurales.aspx"
+    },
+    {
+        "lat": 4.586128,
+        "lng": -71.06975,
+        "Departamento": "Vichada",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "Escuela de Intercambio de Saberes para el Desarrollo Rural impulsó el fortalecimiento de las capacidades de 201 organizaciones apoyadas por el proyecto El Campo Emprende, una estrategia liderada por el Ministerio de Agricultura y Ecopetrol. Mediante este programa se entregaron incentivos económicos y se promovió el acceso a espacios para el intercambio de saberes.",
+        "Link": "https://www.minagricultura.gov.co/noticias/Paginas/Escuela-de-Saberes-de-MinAgricultura-y-Ecopetrol-fortaleci%C3%B3-capacidades-de-m%C3%A1s-de-200-emprendedores-rurales.aspx"
+    },
+    {
+        "lat": 5.673521,
+        "lng": -75.427764,
+        "Departamento": "Amazonas",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "Escuela de Intercambio de Saberes para el Desarrollo Rural impulsó el fortalecimiento de las capacidades de 201 organizaciones apoyadas por el proyecto El Campo Emprende, una estrategia liderada por el Ministerio de Agricultura y Ecopetrol. Mediante este programa se entregaron incentivos económicos y se promovió el acceso a espacios para el intercambio de saberes.",
+        "Link": "https://www.minagricultura.gov.co/noticias/Paginas/Escuela-de-Saberes-de-MinAgricultura-y-Ecopetrol-fortaleci%C3%B3-capacidades-de-m%C3%A1s-de-200-emprendedores-rurales.aspx"
+    },
+    {
+        "lat": 5.604772,
+        "lng": -75.482866,
+        "Departamento": "Amazonas",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "Escuela de Intercambio de Saberes para el Desarrollo Rural impulsó el fortalecimiento de las capacidades de 201 organizaciones apoyadas por el proyecto El Campo Emprende, una estrategia liderada por el Ministerio de Agricultura y Ecopetrol. Mediante este programa se entregaron incentivos económicos y se promovió el acceso a espacios para el intercambio de saberes.",
+        "Link": "https://www.minagricultura.gov.co/noticias/Paginas/Escuela-de-Saberes-de-MinAgricultura-y-Ecopetrol-fortaleci%C3%B3-capacidades-de-m%C3%A1s-de-200-emprendedores-rurales.aspx"
+    },
+    {
+        "lat": 5.61798,
+        "lng": -75.485852,
+        "Departamento": "Amazonas",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "Colombia logró en 2023 un importante avance al asegurar la admisibilidad de la uchuva o goldenberry en México.",
+        "Link": "https://www.eltiempo.com/economía/sectores/uchuva-colombiana-se-exportara-a-mexico-811476"
+    },
+    {
+        "lat": 5.630144,
+        "lng": -75.479542,
+        "Departamento": "Amazonas",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "Creación de la primera Empresa Popular público - privada en San Marcos, Sucre en el marco de la coordinación de la estructuración de 18 Proyectos Estratégicos Nacionales en el marco del cumplimiento del Acuerdo Final de Paz, en su punto uno: Reforma Rural Integral.",
+        "Link": "https://www.adr.gov.co/382-mil-millones-de-pesos-invertidos-en-el-campo-colombiano/"
+    },
+    {
+        "lat": 5.599682,
+        "lng": -75.501989,
+        "Departamento": "Amazonas",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "Establecimiento del primer laboratorio de paz en el Cauca en el marco de la coordinación de la estructuración de 18 Proyectos Estratégicos Nacionales en el marco del cumplimiento del Acuerdo Final de Paz, en su punto uno: Reforma Rural Integral.",
+        "Link": "https://www.adr.gov.co/382-mil-millones-de-pesos-invertidos-en-el-campo-colombiano/"
+    },
+    {
+        "lat": 5.733786,
+        "lng": -75.598156,
+        "Departamento": "Amazonas",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "Entrega a 356 hogares elementos para la siembra de huertas para la seguridad alimentaria y auto sostenibilidad de la comunidad.",
+        "Link": "https://twitter.com/ProsperidadCol/status/1672048822674128896"
+    },
+    {
+        "lat": 5.578007,
+        "lng": -75.469687,
+        "Departamento": "Amazonas",
+        "Sectorocategoríaprincipal": "Educación",
+        "Resumen": "Adecuación de la Plaza de Mercado que beneficia a 8.850 habitantes del municipio y fortalece sector agrícola, seguridad alimentaria, generación de empleo y producción local. Inversión supera 3 mil millones",
+        "Link": "https://twitter.com/ProsperidadCol/status/1672931205883346944"
+    },
+    {
+        "lat": 5.626307,
+        "lng": -75.452271,
+        "Departamento": "Amazonas",
+        "Sectorocategoríaprincipal": "Agua",
+        "Resumen": "2.200 millones de pesos serán invertidos por el Gobierno Nacional para desarrollar proyectos productivos en el Norte del Cauca en el marco del Laboratorio de Paz del Cauca",
+        "Link": "https://twitter.com/RTVCnoticias/status/1782928596115263843"
+    },
+    {
+        "lat": 5.236471,
+        "lng": -75.784343,
+        "Departamento": "Amazonas",
+        "Sectorocategoríaprincipal": "Agua",
+        "Resumen": "Misión La Guajira socializó y concertó el proyecto piloto de potabilización del agua para las comunidades wayuu de Grasamana, Parensca 1 y Parensca 2, en el municipio de Manaure. El acceso a Agua Potable en La Guajira Avanza.",
+        "Link": "https://prosperidadsocial.gov.co/Noticias/avanza-mision-la-guajira-con-socializacion-de-potabilizacion-del-agua-para-tres-comunidades-wayuu-en-manaure/"
+    },
+    {
+        "lat": 5.208924,
+        "lng": -75.780996,
+        "Departamento": "Amazonas",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "Se trabajará de manera conjunta con el Ministerio de Educación para proveer de agua potable a las instituciones educativas de tres municipios del sur de Colombia en Nariño",
+        "Link": "https://www.infobae.com/colombia/2024/01/23/francia-marquez-anuncio-inversion-de-mas-de-30000-millones-para-acueducto-y-alcantarillado-en-narino/"
+    },
+    {
+        "lat": 5.250455,
+        "lng": -75.794269,
+        "Departamento": "Amazonas",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "A través de la Ruta 'ComuniAgua', se ha avanzado en el fortalecimiento de 320 organizaciones comunitarias y se han asignado subsidios que benefician a aproximadamente 188.000 personas de estratos 1 y 2.\r\n\r\nEn Nariño, 11.617 suscriptores del programa ComuniAgua de estratos 1 y 2 se benefician con los 31 subsidios comunitarios aprobados por el Ministerio de Vivienda, Ciudad y Territorio, que ayudarán a fortalecer el trabajo de las comunidades por un acceso equitativo al agua potable y el saneamiento básico.",
+        "Link": "https://ciudadyregion.com.co/index.php/minvivienda-aprobo-31-subsidios-de-la-ruta-comuniagua-que-benefician-a-11-617-personas-de-estratos-1-y-2-en-narino/nacional/ "
+    },
+    {
+        "lat": 5.121933,
+        "lng": -75.715614,
+        "Departamento": "Amazonas",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "A través de la Ruta 'ComuniAgua', se ha avanzado en el fortalecimiento de 320 organizaciones comunitarias y se han asignado subsidios que benefician a aproximadamente 188.000 personas de estratos 1 y 2.\r\n\r\nEn Santander: $450 mil millones asignó al sector vivienda y saneamiento el gobierno Petro, entre ellos recursos para ‘La Ruta Comuniagua’",
+        "Link": "https://elfrente.com.co/santander-450-mil-millones-asigno-al-sector-vivienda-y-saneamiento-el-gobierno-petro/"
+    },
+    {
+        "lat": 5.271142,
+        "lng": -75.491255,
+        "Departamento": "Amazonas",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "A través de la Ruta 'ComuniAgua', se ha avanzado en el fortalecimiento de 320 organizaciones comunitarias y se han asignado subsidios que benefician a aproximadamente 188.000 personas de estratos 1 y 2.\r\n\r\nMás de 9.600 usuarios se benefician con la estrategia ‘La Ruta Comuniagua’ en Córdoba",
+        "Link": "https://larazon.co/CÓRDOBA/mas-de-9-600-usuarios-se-benefician-con-la-estrategia-la-ruta-comuniagua-en-CÓRDOBA/"
+    },
+    {
+        "lat": 5.261945,
+        "lng": -75.523505,
+        "Departamento": "Amazonas",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "A través de la Ruta 'ComuniAgua', se ha avanzado en el fortalecimiento de 320 organizaciones comunitarias y se han asignado subsidios que benefician a aproximadamente 188.000 personas de estratos 1 y 2.\r\n\r\nEn Pereira la asociación de usuarios de la  comunidad de Caracol y El Rocío está recibiendo recursos de subsidios que fortalecen su operación",
+        "Link": "https://twitter.com/CATALINAVELASCO/status/1789350874965250384"
+    },
+    {
+        "lat": 5.253855,
+        "lng": -75.513077,
+        "Departamento": "Amazonas",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "“Los proyectos para garantizar el agua en Istmina, Nóvita y Medio Baudó estaban detenidos desde hace muchos años. Cuando llegamos nos comprometimos a cambiar esa situación, porque el CHOCÓ es una prioridad para el Gobierno del Cambio\": \r\n@CATALINAVELASCO",
+        "Link": "https://twitter.com/Minvivienda/status/1788574520866902029"
+    },
+    {
+        "lat": 4.993785,
+        "lng": -75.811918,
+        "Departamento": "Amazonas",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "El Ministerio de Vivienda destinó en 2023 más de 663 mil millones en 87 proyectos de agua potable y saneamiento básico en 24 departamentos para atender 1,3 millones de personas desatendidas históricamente",
+        "Link": "https://minvivienda.gov.co/sites/default/files/documentos/infografia-ranking-de-proyectos-de-agua-por-departamento.pdf"
+    },
+    {
+        "lat": 4.94236,
+        "lng": -75.824696,
+        "Departamento": "Amazonas",
+        "Sectorocategoríaprincipal": "Cuidado De La Naturaleza",
+        "Resumen": "El Ministerio de Vivienda destinó en 2023 más de 663 mil millones en 87 proyectos de agua potable y saneamiento básico en 24 departamentos para atender 1,3 millones de personas desatendidas históricamente",
+        "Link": "https://minvivienda.gov.co/sites/default/files/documentos/infografia-ranking-de-proyectos-de-agua-por-departamento.pdf"
+    },
+    {
+        "lat": 5.895614,
+        "lng": -75.957061,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Agrario y Rural",
+        "Resumen": "El Ministerio de Vivienda destinó en 2023 más de 663 mil millones en 87 proyectos de agua potable y saneamiento básico en 24 departamentos para atender 1,3 millones de personas desatendidas históricamente",
+        "Link": "https://minvivienda.gov.co/sites/default/files/documentos/infografia-ranking-de-proyectos-de-agua-por-departamento.pdf"
+    },
+    {
+        "lat": 5.783321,
+        "lng": -76.01367,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Agua",
+        "Resumen": "El Ministerio de Vivienda destinó en 2023 más de 663 mil millones en 87 proyectos de agua potable y saneamiento básico en 24 departamentos para atender 1,3 millones de personas desatendidas históricamente",
+        "Link": "https://minvivienda.gov.co/sites/default/files/documentos/infografia-ranking-de-proyectos-de-agua-por-departamento.pdf"
+    },
+    {
+        "lat": 5.865983,
+        "lng": -76.035653,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "El Ministerio de Vivienda destinó en 2023 más de 663 mil millones en 87 proyectos de agua potable y saneamiento básico en 24 departamentos para atender 1,3 millones de personas desatendidas históricamente",
+        "Link": "https://minvivienda.gov.co/sites/default/files/documentos/infografia-ranking-de-proyectos-de-agua-por-departamento.pdf"
+    },
+    {
+        "lat": 7.114883,
+        "lng": -75.54813,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "El Ministerio de Vivienda destinó en 2023 más de 663 mil millones en 87 proyectos de agua potable y saneamiento básico en 24 departamentos para atender 1,3 millones de personas desatendidas históricamente",
+        "Link": "https://minvivienda.gov.co/sites/default/files/documentos/infografia-ranking-de-proyectos-de-agua-por-departamento.pdf"
+    },
+    {
+        "lat": 7.10759,
+        "lng": -75.625932,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "El Ministerio de Vivienda destinó en 2023 más de 663 mil millones en 87 proyectos de agua potable y saneamiento básico en 24 departamentos para atender 1,3 millones de personas desatendidas históricamente",
+        "Link": "https://minvivienda.gov.co/sites/default/files/documentos/infografia-ranking-de-proyectos-de-agua-por-departamento.pdf"
+    },
+    {
+        "lat": 7.137653,
+        "lng": -75.586775,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "El Ministerio de Vivienda destinó en 2023 más de 663 mil millones en 87 proyectos de agua potable y saneamiento básico en 24 departamentos para atender 1,3 millones de personas desatendidas históricamente",
+        "Link": "https://minvivienda.gov.co/sites/default/files/documentos/infografia-ranking-de-proyectos-de-agua-por-departamento.pdf"
+    },
+    {
+        "lat": 7.193361,
+        "lng": -75.51501,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Derechos y Proyectos",
+        "Resumen": "El Ministerio de Vivienda destinó en 2023 más de 663 mil millones en 87 proyectos de agua potable y saneamiento básico en 24 departamentos para atender 1,3 millones de personas desatendidas históricamente",
+        "Link": "https://minvivienda.gov.co/sites/default/files/documentos/infografia-ranking-de-proyectos-de-agua-por-departamento.pdf"
+    },
+    {
+        "lat": 7.754663,
+        "lng": -75.253751,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "El Ministerio de Vivienda destinó en 2023 más de 663 mil millones en 87 proyectos de agua potable y saneamiento básico en 24 departamentos para atender 1,3 millones de personas desatendidas históricamente",
+        "Link": "https://minvivienda.gov.co/sites/default/files/documentos/infografia-ranking-de-proyectos-de-agua-por-departamento.pdf"
+    },
+    {
+        "lat": 7.854018,
+        "lng": -75.208141,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "El Ministerio de Vivienda destinó en 2023 más de 663 mil millones en 87 proyectos de agua potable y saneamiento básico en 24 departamentos para atender 1,3 millones de personas desatendidas históricamente",
+        "Link": "https://minvivienda.gov.co/sites/default/files/documentos/infografia-ranking-de-proyectos-de-agua-por-departamento.pdf"
+    },
+    {
+        "lat": 7.836838,
+        "lng": -75.414361,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Seguridad y Ffmm",
+        "Resumen": "El Ministerio de Vivienda destinó en 2023 más de 663 mil millones en 87 proyectos de agua potable y saneamiento básico en 24 departamentos para atender 1,3 millones de personas desatendidas históricamente",
+        "Link": "https://minvivienda.gov.co/sites/default/files/documentos/infografia-ranking-de-proyectos-de-agua-por-departamento.pdf"
+    },
+    {
+        "lat": 7.665082,
+        "lng": -75.28467,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Tierra Urbana",
+        "Resumen": "El Ministerio de Vivienda destinó en 2023 más de 663 mil millones en 87 proyectos de agua potable y saneamiento básico en 24 departamentos para atender 1,3 millones de personas desatendidas históricamente",
+        "Link": "https://minvivienda.gov.co/sites/default/files/documentos/infografia-ranking-de-proyectos-de-agua-por-departamento.pdf"
+    },
+    {
+        "lat": 7.782877,
+        "lng": -75.205584,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Tierra Urbana",
+        "Resumen": "El Ministerio de Vivienda destinó en 2023 más de 663 mil millones en 87 proyectos de agua potable y saneamiento básico en 24 departamentos para atender 1,3 millones de personas desatendidas históricamente",
+        "Link": "https://minvivienda.gov.co/sites/default/files/documentos/infografia-ranking-de-proyectos-de-agua-por-departamento.pdf"
+    },
+    {
+        "lat": 7.94445,
+        "lng": -75.208103,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Tierra Urbana",
+        "Resumen": "El Ministerio de Vivienda destinó en 2023 más de 663 mil millones en 87 proyectos de agua potable y saneamiento básico en 24 departamentos para atender 1,3 millones de personas desatendidas históricamente",
+        "Link": "https://minvivienda.gov.co/sites/default/files/documentos/infografia-ranking-de-proyectos-de-agua-por-departamento.pdf"
+    },
+    {
+        "lat": 7.715215,
+        "lng": -75.272833,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Tierra Urbana",
+        "Resumen": "El Ministerio de Vivienda destinó en 2023 más de 663 mil millones en 87 proyectos de agua potable y saneamiento básico en 24 departamentos para atender 1,3 millones de personas desatendidas históricamente",
+        "Link": "https://minvivienda.gov.co/sites/default/files/documentos/infografia-ranking-de-proyectos-de-agua-por-departamento.pdf"
+    },
+    {
+        "lat": 7.734309,
+        "lng": -75.384177,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Tierra Urbana",
+        "Resumen": "El Ministerio de Vivienda destinó en 2023 más de 663 mil millones en 87 proyectos de agua potable y saneamiento básico en 24 departamentos para atender 1,3 millones de personas desatendidas históricamente",
+        "Link": "https://minvivienda.gov.co/sites/default/files/documentos/infografia-ranking-de-proyectos-de-agua-por-departamento.pdf"
+    },
+    {
+        "lat": 7.797729,
+        "lng": -75.205779,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "El Ministerio de Vivienda destinó en 2023 más de 663 mil millones en 87 proyectos de agua potable y saneamiento básico en 24 departamentos para atender 1,3 millones de personas desatendidas históricamente",
+        "Link": "https://minvivienda.gov.co/sites/default/files/documentos/infografia-ranking-de-proyectos-de-agua-por-departamento.pdf"
+    },
+    {
+        "lat": 6.405607,
+        "lng": -75.98293,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "El Ministerio de Vivienda destinó en 2023 más de 663 mil millones en 87 proyectos de agua potable y saneamiento básico en 24 departamentos para atender 1,3 millones de personas desatendidas históricamente",
+        "Link": "https://minvivienda.gov.co/sites/default/files/documentos/infografia-ranking-de-proyectos-de-agua-por-departamento.pdf"
+    },
+    {
+        "lat": 6.091296,
+        "lng": -75.633619,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "El Ministerio de Vivienda destinó en 2023 más de 663 mil millones en 87 proyectos de agua potable y saneamiento básico en 24 departamentos para atender 1,3 millones de personas desatendidas históricamente",
+        "Link": "https://minvivienda.gov.co/sites/default/files/documentos/infografia-ranking-de-proyectos-de-agua-por-departamento.pdf"
+    },
+    {
+        "lat": 6.107706,
+        "lng": -75.640529,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "El Ministerio de Vivienda destinó en 2023 más de 663 mil millones en 87 proyectos de agua potable y saneamiento básico en 24 departamentos para atender 1,3 millones de personas desatendidas históricamente",
+        "Link": "https://minvivienda.gov.co/sites/default/files/documentos/infografia-ranking-de-proyectos-de-agua-por-departamento.pdf"
+    },
+    {
+        "lat": 6.111302,
+        "lng": -75.640823,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "El Ministerio de Vivienda destinó en 2023 más de 663 mil millones en 87 proyectos de agua potable y saneamiento básico en 24 departamentos para atender 1,3 millones de personas desatendidas históricamente",
+        "Link": "https://minvivienda.gov.co/sites/default/files/documentos/infografia-ranking-de-proyectos-de-agua-por-departamento.pdf"
+    },
+    {
+        "lat": 6.102587,
+        "lng": -75.622237,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "El Ministerio de Vivienda destinó en 2023 más de 663 mil millones en 87 proyectos de agua potable y saneamiento básico en 24 departamentos para atender 1,3 millones de personas desatendidas históricamente",
+        "Link": "https://minvivienda.gov.co/sites/default/files/documentos/infografia-ranking-de-proyectos-de-agua-por-departamento.pdf"
+    },
+    {
+        "lat": 6.088335,
+        "lng": -75.620937,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "El Ministerio de Vivienda destinó en 2023 más de 663 mil millones en 87 proyectos de agua potable y saneamiento básico en 24 departamentos para atender 1,3 millones de personas desatendidas históricamente",
+        "Link": "https://minvivienda.gov.co/sites/default/files/documentos/infografia-ranking-de-proyectos-de-agua-por-departamento.pdf"
+    },
+    {
+        "lat": 6.067774,
+        "lng": -75.637212,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "Se estructuraron y financiaron 8 proyectos con soluciones no convencionales, como el aprovechamiento de agua lluvia para consumo humano, con una inversión de $33 mil millones en comunidades rurales para enfrentar situaciones críticas de privación en zonas rurales y en pequeños municipios, en comunidades indígenas y afrocolombianas",
+        "Link": "https://minvivienda.gov.co/sala-de-prensa/iniciamos-proyectos-de-agua-y-saneamiento-basico-en-24-departamentos-para-beneficiar-13-millones-de-personas-desatendidas-ministra-de-vivienda"
+    },
+    {
+        "lat": 6.087699,
+        "lng": -75.645153,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "Se estructuraron y financiaron 8 proyectos con soluciones no convencionales, como el aprovechamiento de agua lluvia para consumo humano, con una inversión de $33 mil millones en comunidades rurales para enfrentar situaciones críticas de privación en zonas rurales y en pequeños municipios, en comunidades indígenas y afrocolombianas",
+        "Link": "https://minvivienda.gov.co/sala-de-prensa/iniciamos-proyectos-de-agua-y-saneamiento-basico-en-24-departamentos-para-beneficiar-13-millones-de-personas-desatendidas-ministra-de-vivienda"
+    },
+    {
+        "lat": 6.048023,
+        "lng": -75.619807,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "Se estructuraron y financiaron 8 proyectos con soluciones no convencionales, como el aprovechamiento de agua lluvia para consumo humano, con una inversión de $33 mil millones en comunidades rurales para enfrentar situaciones críticas de privación en zonas rurales y en pequeños municipios, en comunidades indígenas y afrocolombianas",
+        "Link": "https://minvivienda.gov.co/sala-de-prensa/iniciamos-proyectos-de-agua-y-saneamiento-basico-en-24-departamentos-para-beneficiar-13-millones-de-personas-desatendidas-ministra-de-vivienda"
+    },
+    {
+        "lat": 6.059994,
+        "lng": -75.64824,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "Se estructuraron y financiaron 8 proyectos con soluciones no convencionales, como el aprovechamiento de agua lluvia para consumo humano, con una inversión de $33 mil millones en comunidades rurales para enfrentar situaciones críticas de privación en zonas rurales y en pequeños municipios, en comunidades indígenas y afrocolombianas",
+        "Link": "https://minvivienda.gov.co/sala-de-prensa/iniciamos-proyectos-de-agua-y-saneamiento-basico-en-24-departamentos-para-beneficiar-13-millones-de-personas-desatendidas-ministra-de-vivienda"
+    },
+    {
+        "lat": 6.049949,
+        "lng": -75.624602,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "Se estructuraron y financiaron 8 proyectos con soluciones no convencionales, como el aprovechamiento de agua lluvia para consumo humano, con una inversión de $33 mil millones en comunidades rurales para enfrentar situaciones críticas de privación en zonas rurales y en pequeños municipios, en comunidades indígenas y afrocolombianas",
+        "Link": "https://minvivienda.gov.co/sala-de-prensa/iniciamos-proyectos-de-agua-y-saneamiento-basico-en-24-departamentos-para-beneficiar-13-millones-de-personas-desatendidas-ministra-de-vivienda"
+    },
+    {
+        "lat": 6.059361,
+        "lng": -75.637958,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "Se estructuraron y financiaron 8 proyectos con soluciones no convencionales, como el aprovechamiento de agua lluvia para consumo humano, con una inversión de $33 mil millones en comunidades rurales para enfrentar situaciones críticas de privación en zonas rurales y en pequeños municipios, en comunidades indígenas y afrocolombianas",
+        "Link": "https://minvivienda.gov.co/sala-de-prensa/iniciamos-proyectos-de-agua-y-saneamiento-basico-en-24-departamentos-para-beneficiar-13-millones-de-personas-desatendidas-ministra-de-vivienda"
+    },
+    {
+        "lat": 6.273406,
+        "lng": -75.648077,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "Se estructuraron y financiaron 8 proyectos con soluciones no convencionales, como el aprovechamiento de agua lluvia para consumo humano, con una inversión de $33 mil millones en comunidades rurales para enfrentar situaciones críticas de privación en zonas rurales y en pequeños municipios, en comunidades indígenas y afrocolombianas",
+        "Link": "https://minvivienda.gov.co/sala-de-prensa/iniciamos-proyectos-de-agua-y-saneamiento-basico-en-24-departamentos-para-beneficiar-13-millones-de-personas-desatendidas-ministra-de-vivienda"
+    },
+    {
+        "lat": 6.284456,
+        "lng": -75.649303,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "Se estructuraron y financiaron 8 proyectos con soluciones no convencionales, como el aprovechamiento de agua lluvia para consumo humano, con una inversión de $33 mil millones en comunidades rurales para enfrentar situaciones críticas de privación en zonas rurales y en pequeños municipios, en comunidades indígenas y afrocolombianas",
+        "Link": "https://minvivienda.gov.co/sala-de-prensa/iniciamos-proyectos-de-agua-y-saneamiento-basico-en-24-departamentos-para-beneficiar-13-millones-de-personas-desatendidas-ministra-de-vivienda"
+    },
+    {
+        "lat": 6.234886,
+        "lng": -75.498185,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": " En lo que va de este gobierno, van 6.069 proyectos artísticos y culturales apoyados y 1.270 estímulos entregados.",
+        "Link": "https://twitter.com/mincultura/status/1782018009118159199"
+    },
+    {
+        "lat": 6.183065,
+        "lng": -75.668067,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": " En lo que va de este gobierno, van 6.069 proyectos artísticos y culturales apoyados y 1.270 estímulos entregados.",
+        "Link": "https://twitter.com/mincultura/status/1782018009118159199"
+    },
+    {
+        "lat": 6.286948,
+        "lng": -75.643128,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Educación",
+        "Resumen": " En lo que va de este gobierno, van 6.069 proyectos artísticos y culturales apoyados y 1.270 estímulos entregados.",
+        "Link": "https://twitter.com/mincultura/status/1782018009118159199"
+    },
+    {
+        "lat": 6.365318,
+        "lng": -75.698148,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": " En lo que va de este gobierno, van 6.069 proyectos artísticos y culturales apoyados y 1.270 estímulos entregados.",
+        "Link": "https://twitter.com/mincultura/status/1782018009118159199"
+    },
+    {
+        "lat": 6.315868,
+        "lng": -75.657851,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "500 organizaciones culturales han sido beneficiadas hasta ahora en 3 subregiones de 27 municipios, con una inversión de más de $48.000 millones a través de los Pactos Culturales por la Vida y por la Paz.",
+        "Link": "https://twitter.com/infopresidencia/status/1782083600995020809"
+    },
+    {
+        "lat": 6.294584,
+        "lng": -75.649476,
+        "Departamento": "Antioquia",
+        "Sectorocategoríaprincipal": "Cuidado De La Naturaleza",
+        "Resumen": "500 organizaciones culturales han sido beneficiadas hasta ahora en 3 subregiones de 27 municipios, con una inversión de más de $48.000 millones a través de los Pactos Culturales por la Vida y por la Paz.",
+        "Link": "https://twitter.com/infopresidencia/status/1782083600995020809"
+    },
+    {
+        "lat": 6.886878,
+        "lng": -71.431553,
+        "Departamento": "Arauca",
+        "Sectorocategoríaprincipal": "Agrario y Rural",
+        "Resumen": "Minculturas invertirá $32.000 millones para el Litoral Pacífico Nariñense y Caucano en 2024. Con está inversión habrá formación musical a 6.200 niñas, niños y jóvenes, la construcción y adecuación de 17 infraestructuras culturales, y el fortalecimiento de las bibliotecas públicas, rurales itinerantes y comunitarias",
+        "Link": "https://hjck.com/reportajes/el-minculturas-invertira-32-000-millones-para-el-litoral-pacifico-narinense-y-caucano-en-2024-rg10"
+    },
+    {
+        "lat": 6.303913,
+        "lng": -70.204286,
+        "Departamento": "Arauca",
+        "Sectorocategoríaprincipal": "Educación",
+        "Resumen": "Minculturas invertirá $32.000 millones para el Litoral Pacífico Nariñense y Caucano en 2024. Con está inversión habrá formación musical a 6.200 niñas, niños y jóvenes, la construcción y adecuación de 17 infraestructuras culturales, y el fortalecimiento de las bibliotecas públicas, rurales itinerantes y comunitarias",
+        "Link": "https://hjck.com/reportajes/el-minculturas-invertira-32-000-millones-para-el-litoral-pacifico-narinense-y-caucano-en-2024-rg10"
+    },
+    {
+        "lat": 6.792738,
+        "lng": -71.774279,
+        "Departamento": "Arauca",
+        "Sectorocategoríaprincipal": "Educación",
+        "Resumen": "Minculturas invertirá $32.000 millones para el Litoral Pacífico Nariñense y Caucano en 2024. Con está inversión habrá formación musical a 6.200 niñas, niños y jóvenes, la construcción y adecuación de 17 infraestructuras culturales, y el fortalecimiento de las bibliotecas públicas, rurales itinerantes y comunitarias",
+        "Link": "https://hjck.com/reportajes/el-minculturas-invertira-32-000-millones-para-el-litoral-pacifico-narinense-y-caucano-en-2024-rg10"
+    },
+    {
+        "lat": 6.841346,
+        "lng": -71.597955,
+        "Departamento": "Arauca",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 6.951622,
+        "lng": -71.186825,
+        "Departamento": "Arauca",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 6.962661,
+        "lng": -71.62254,
+        "Departamento": "Arauca",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 6.884643,
+        "lng": -71.52125,
+        "Departamento": "Arauca",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 7.025238,
+        "lng": -71.15749,
+        "Departamento": "Arauca",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 6.885186,
+        "lng": -71.572392,
+        "Departamento": "Arauca",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 6.823623,
+        "lng": -71.225523,
+        "Departamento": "Arauca",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 6.82145,
+        "lng": -71.320978,
+        "Departamento": "Arauca",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 6.859167,
+        "lng": -71.485181,
+        "Departamento": "Arauca",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 6.924335,
+        "lng": -71.588813,
+        "Departamento": "Arauca",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 6.94331,
+        "lng": -71.216394,
+        "Departamento": "Arauca",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 7.006238,
+        "lng": -71.538262,
+        "Departamento": "Arauca",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 12.583014,
+        "lng": -81.696063,
+        "Departamento": "Archipiélago De San Andrés, Providencia y Santa Catalina",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 12.557312,
+        "lng": -81.717782,
+        "Departamento": "Archipiélago De San Andrés, Providencia y Santa Catalina",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 12.53092,
+        "lng": -81.712113,
+        "Departamento": "Archipiélago De San Andrés, Providencia y Santa Catalina",
+        "Sectorocategoríaprincipal": "Ciencia E Innovación",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 12.481147,
+        "lng": -81.730001,
+        "Departamento": "Archipiélago De San Andrés, Providencia y Santa Catalina",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 13.3701,
+        "lng": -81.370912,
+        "Departamento": "Archipiélago De San Andrés, Providencia y Santa Catalina",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 13.347784,
+        "lng": -81.392428,
+        "Departamento": "Archipiélago De San Andrés, Providencia y Santa Catalina",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 13.331844,
+        "lng": -81.388161,
+        "Departamento": "Archipiélago De San Andrés, Providencia y Santa Catalina",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 13.328414,
+        "lng": -81.37564,
+        "Departamento": "Archipiélago De San Andrés, Providencia y Santa Catalina",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 13.3571,
+        "lng": -81.391292,
+        "Departamento": "Archipiélago De San Andrés, Providencia y Santa Catalina",
+        "Sectorocategoríaprincipal": "Economía Popular",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 10.794447,
+        "lng": -74.916073,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Agua",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 10.725321,
+        "lng": -74.914252,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 10.841341,
+        "lng": -74.918078,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 10.815374,
+        "lng": -74.97538,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 10.37924,
+        "lng": -74.883152,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Comunidades y Transición Energética",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 10.460973,
+        "lng": -74.834201,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 10.461903,
+        "lng": -74.879717,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Economía Popular",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 10.439586,
+        "lng": -74.913006,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Educación",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 10.517133,
+        "lng": -74.877774,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Educación",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 10.411282,
+        "lng": -75.12992,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Educación",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 10.522019,
+        "lng": -75.234536,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Educación",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 10.791063,
+        "lng": -74.75847,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Reforma Agraria",
+        "Resumen": "En el marco del Programa Fortalecimiento Integral De La Red Nacional De Bibliotecas Públicas De, la Biblioteca Nacional de Colombia adelantó diferentes acciones de fortalecimiento integral de la Red Nacional de Bibliotecas a 1.549 bibliotecas en el 2023 con una inversión de 16,3 mil millones de pesos",
+        "Link": "DERECHO DE PETICIÓN"
+    },
+    {
+        "lat": 10.632291,
+        "lng": -74.92153,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Reforma Agraria",
+        "Resumen": "17 bibliotecas públicas y 3 bibliotecas rurales itinerantes fueron seleccionadas para recibir un kit con elementos que fortalecerán e incentivarán la circulación de contenidos en formatos radiofónicos, que a su vez reforzarán el acceso al conocimiento y la cultura por parte de las comunidades en todo el territorio nacional.",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-ganadoras-kits-radiofonicos"
+    },
+    {
+        "lat": 10.521882,
+        "lng": -75.005493,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Salud",
+        "Resumen": "17 bibliotecas públicas y 3 bibliotecas rurales itinerantes fueron seleccionadas para recibir un kit con elementos que fortalecerán e incentivarán la circulación de contenidos en formatos radiofónicos, que a su vez reforzarán el acceso al conocimiento y la cultura por parte de las comunidades en todo el territorio nacional.",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-ganadoras-kits-radiofonicos"
+    },
+    {
+        "lat": 10.598402,
+        "lng": -74.848208,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Salud",
+        "Resumen": "17 bibliotecas públicas y 3 bibliotecas rurales itinerantes fueron seleccionadas para recibir un kit con elementos que fortalecerán e incentivarán la circulación de contenidos en formatos radiofónicos, que a su vez reforzarán el acceso al conocimiento y la cultura por parte de las comunidades en todo el territorio nacional.",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-ganadoras-kits-radiofonicos"
+    },
+    {
+        "lat": 10.641265,
+        "lng": -75.001846,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "17 bibliotecas públicas y 3 bibliotecas rurales itinerantes fueron seleccionadas para recibir un kit con elementos que fortalecerán e incentivarán la circulación de contenidos en formatos radiofónicos, que a su vez reforzarán el acceso al conocimiento y la cultura por parte de las comunidades en todo el territorio nacional.",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-ganadoras-kits-radiofonicos"
+    },
+    {
+        "lat": 10.675913,
+        "lng": -75.002342,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "17 bibliotecas públicas y 3 bibliotecas rurales itinerantes fueron seleccionadas para recibir un kit con elementos que fortalecerán e incentivarán la circulación de contenidos en formatos radiofónicos, que a su vez reforzarán el acceso al conocimiento y la cultura por parte de las comunidades en todo el territorio nacional.",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-ganadoras-kits-radiofonicos"
+    },
+    {
+        "lat": 10.584632,
+        "lng": -75.026976,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "17 bibliotecas públicas y 3 bibliotecas rurales itinerantes fueron seleccionadas para recibir un kit con elementos que fortalecerán e incentivarán la circulación de contenidos en formatos radiofónicos, que a su vez reforzarán el acceso al conocimiento y la cultura por parte de las comunidades en todo el territorio nacional.",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-ganadoras-kits-radiofonicos"
+    },
+    {
+        "lat": 10.756056,
+        "lng": -74.754112,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "17 bibliotecas públicas y 3 bibliotecas rurales itinerantes fueron seleccionadas para recibir un kit con elementos que fortalecerán e incentivarán la circulación de contenidos en formatos radiofónicos, que a su vez reforzarán el acceso al conocimiento y la cultura por parte de las comunidades en todo el territorio nacional.",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-ganadoras-kits-radiofonicos"
+    },
+    {
+        "lat": 10.909999,
+        "lng": -74.785829,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "17 bibliotecas públicas y 3 bibliotecas rurales itinerantes fueron seleccionadas para recibir un kit con elementos que fortalecerán e incentivarán la circulación de contenidos en formatos radiofónicos, que a su vez reforzarán el acceso al conocimiento y la cultura por parte de las comunidades en todo el territorio nacional.",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-ganadoras-kits-radiofonicos"
+    },
+    {
+        "lat": 10.335432,
+        "lng": -74.881687,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "17 bibliotecas públicas y 3 bibliotecas rurales itinerantes fueron seleccionadas para recibir un kit con elementos que fortalecerán e incentivarán la circulación de contenidos en formatos radiofónicos, que a su vez reforzarán el acceso al conocimiento y la cultura por parte de las comunidades en todo el territorio nacional.",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-ganadoras-kits-radiofonicos"
+    },
+    {
+        "lat": 10.873586,
+        "lng": -74.978704,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "17 bibliotecas públicas y 3 bibliotecas rurales itinerantes fueron seleccionadas para recibir un kit con elementos que fortalecerán e incentivarán la circulación de contenidos en formatos radiofónicos, que a su vez reforzarán el acceso al conocimiento y la cultura por parte de las comunidades en todo el territorio nacional.",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-ganadoras-kits-radiofonicos"
+    },
+    {
+        "lat": 10.922304,
+        "lng": -74.942804,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "17 bibliotecas públicas y 3 bibliotecas rurales itinerantes fueron seleccionadas para recibir un kit con elementos que fortalecerán e incentivarán la circulación de contenidos en formatos radiofónicos, que a su vez reforzarán el acceso al conocimiento y la cultura por parte de las comunidades en todo el territorio nacional.",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-ganadoras-kits-radiofonicos"
+    },
+    {
+        "lat": 10.942331,
+        "lng": -75.006506,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "Las comunidades de las zonas rurales de 30 municipios, de 23 departamentos del país, serán beneficiadas por el Programa Nacional de Bibliotecas Itinerantes - PNBI en su fase de implementación, a desarrollarse durante 2024 que desarrolla diferentes acciones para contribuir al acceso al conocimiento, la información y la cultura oral y escrita",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-seleccionadas-bri-2024"
+    },
+    {
+        "lat": 10.87351,
+        "lng": -74.941648,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "Las comunidades de las zonas rurales de 30 municipios, de 23 departamentos del país, serán beneficiadas por el Programa Nacional de Bibliotecas Itinerantes - PNBI en su fase de implementación, a desarrollarse durante 2024 que desarrolla diferentes acciones para contribuir al acceso al conocimiento, la información y la cultura oral y escrita",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-seleccionadas-bri-2024"
+    },
+    {
+        "lat": 10.929037,
+        "lng": -74.984751,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "Las comunidades de las zonas rurales de 30 municipios, de 23 departamentos del país, serán beneficiadas por el Programa Nacional de Bibliotecas Itinerantes - PNBI en su fase de implementación, a desarrollarse durante 2024 que desarrolla diferentes acciones para contribuir al acceso al conocimiento, la información y la cultura oral y escrita",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-seleccionadas-bri-2024"
+    },
+    {
+        "lat": 10.894419,
+        "lng": -75.002632,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "Las comunidades de las zonas rurales de 30 municipios, de 23 departamentos del país, serán beneficiadas por el Programa Nacional de Bibliotecas Itinerantes - PNBI en su fase de implementación, a desarrollarse durante 2024 que desarrolla diferentes acciones para contribuir al acceso al conocimiento, la información y la cultura oral y escrita",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-seleccionadas-bri-2024"
+    },
+    {
+        "lat": 10.90148,
+        "lng": -75.037384,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "Las comunidades de las zonas rurales de 30 municipios, de 23 departamentos del país, serán beneficiadas por el Programa Nacional de Bibliotecas Itinerantes - PNBI en su fase de implementación, a desarrollarse durante 2024 que desarrolla diferentes acciones para contribuir al acceso al conocimiento, la información y la cultura oral y escrita",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-seleccionadas-bri-2024"
+    },
+    {
+        "lat": 10.886312,
+        "lng": -75.068208,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "Las comunidades de las zonas rurales de 30 municipios, de 23 departamentos del país, serán beneficiadas por el Programa Nacional de Bibliotecas Itinerantes - PNBI en su fase de implementación, a desarrollarse durante 2024 que desarrolla diferentes acciones para contribuir al acceso al conocimiento, la información y la cultura oral y escrita",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-seleccionadas-bri-2024"
+    },
+    {
+        "lat": 10.889829,
+        "lng": -75.053021,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "Las comunidades de las zonas rurales de 30 municipios, de 23 departamentos del país, serán beneficiadas por el Programa Nacional de Bibliotecas Itinerantes - PNBI en su fase de implementación, a desarrollarse durante 2024 que desarrolla diferentes acciones para contribuir al acceso al conocimiento, la información y la cultura oral y escrita",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-seleccionadas-bri-2024"
+    },
+    {
+        "lat": 10.890961,
+        "lng": -75.045407,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "Las comunidades de las zonas rurales de 30 municipios, de 23 departamentos del país, serán beneficiadas por el Programa Nacional de Bibliotecas Itinerantes - PNBI en su fase de implementación, a desarrollarse durante 2024 que desarrolla diferentes acciones para contribuir al acceso al conocimiento, la información y la cultura oral y escrita",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-seleccionadas-bri-2024"
+    },
+    {
+        "lat": 10.74298,
+        "lng": -74.976985,
+        "Departamento": "Atlántico",
+        "Sectorocategoríaprincipal": "Transporte Multimodal",
+        "Resumen": "Las comunidades de las zonas rurales de 30 municipios, de 23 departamentos del país, serán beneficiadas por el Programa Nacional de Bibliotecas Itinerantes - PNBI en su fase de implementación, a desarrollarse durante 2024 que desarrolla diferentes acciones para contribuir al acceso al conocimiento, la información y la cultura oral y escrita",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-seleccionadas-bri-2024"
+    },
+    {
+        "lat": 4.172534,
+        "lng": -74.147115,
+        "Departamento": "Bogotá D.C.",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "Las comunidades de las zonas rurales de 30 municipios, de 23 departamentos del país, serán beneficiadas por el Programa Nacional de Bibliotecas Itinerantes - PNBI en su fase de implementación, a desarrollarse durante 2024 que desarrolla diferentes acciones para contribuir al acceso al conocimiento, la información y la cultura oral y escrita",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-seleccionadas-bri-2024"
+    },
+    {
+        "lat": 4.444348,
+        "lng": -74.156251,
+        "Departamento": "Bogotá D.C.",
+        "Sectorocategoríaprincipal": "Artes y Culturas",
+        "Resumen": "Las comunidades de las zonas rurales de 30 municipios, de 23 departamentos del país, serán beneficiadas por el Programa Nacional de Bibliotecas Itinerantes - PNBI en su fase de implementación, a desarrollarse durante 2024 que desarrolla diferentes acciones para contribuir al acceso al conocimiento, la información y la cultura oral y escrita",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-seleccionadas-bri-2024"
+    },
+    {
+        "lat": 4.029599,
+        "lng": -74.314102,
+        "Departamento": "Bogotá D.C.",
+        "Sectorocategoríaprincipal": "Deporte",
+        "Resumen": "Las comunidades de las zonas rurales de 30 municipios, de 23 departamentos del país, serán beneficiadas por el Programa Nacional de Bibliotecas Itinerantes - PNBI en su fase de implementación, a desarrollarse durante 2024 que desarrolla diferentes acciones para contribuir al acceso al conocimiento, la información y la cultura oral y escrita",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-seleccionadas-bri-2024"
+    },
+    {
+        "lat": 4.218059,
+        "lng": -74.146002,
+        "Departamento": "Bogotá D.C.",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "Las comunidades de las zonas rurales de 30 municipios, de 23 departamentos del país, serán beneficiadas por el Programa Nacional de Bibliotecas Itinerantes - PNBI en su fase de implementación, a desarrollarse durante 2024 que desarrolla diferentes acciones para contribuir al acceso al conocimiento, la información y la cultura oral y escrita",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-seleccionadas-bri-2024"
+    },
+    {
+        "lat": 3.985639,
+        "lng": -74.363706,
+        "Departamento": "Bogotá D.C.",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "Las comunidades de las zonas rurales de 30 municipios, de 23 departamentos del país, serán beneficiadas por el Programa Nacional de Bibliotecas Itinerantes - PNBI en su fase de implementación, a desarrollarse durante 2024 que desarrolla diferentes acciones para contribuir al acceso al conocimiento, la información y la cultura oral y escrita",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-seleccionadas-bri-2024"
+    },
+    {
+        "lat": 4.488998,
+        "lng": -74.148272,
+        "Departamento": "Bogotá D.C.",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "Las comunidades de las zonas rurales de 30 municipios, de 23 departamentos del país, serán beneficiadas por el Programa Nacional de Bibliotecas Itinerantes - PNBI en su fase de implementación, a desarrollarse durante 2024 que desarrolla diferentes acciones para contribuir al acceso al conocimiento, la información y la cultura oral y escrita",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-seleccionadas-bri-2024"
+    },
+    {
+        "lat": 4.781258,
+        "lng": -74.095358,
+        "Departamento": "Bogotá D.C.",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "Las comunidades de las zonas rurales de 30 municipios, de 23 departamentos del país, serán beneficiadas por el Programa Nacional de Bibliotecas Itinerantes - PNBI en su fase de implementación, a desarrollarse durante 2024 que desarrolla diferentes acciones para contribuir al acceso al conocimiento, la información y la cultura oral y escrita",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-seleccionadas-bri-2024"
+    },
+    {
+        "lat": 4.409011,
+        "lng": -74.138352,
+        "Departamento": "Bogotá D.C.",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "Las comunidades de las zonas rurales de 30 municipios, de 23 departamentos del país, serán beneficiadas por el Programa Nacional de Bibliotecas Itinerantes - PNBI en su fase de implementación, a desarrollarse durante 2024 que desarrolla diferentes acciones para contribuir al acceso al conocimiento, la información y la cultura oral y escrita",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-seleccionadas-bri-2024"
+    },
+    {
+        "lat": 3.890437,
+        "lng": -74.359373,
+        "Departamento": "Bogotá D.C.",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "Las comunidades de las zonas rurales de 30 municipios, de 23 departamentos del país, serán beneficiadas por el Programa Nacional de Bibliotecas Itinerantes - PNBI en su fase de implementación, a desarrollarse durante 2024 que desarrolla diferentes acciones para contribuir al acceso al conocimiento, la información y la cultura oral y escrita",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-seleccionadas-bri-2024"
+    },
+    {
+        "lat": 4.526886,
+        "lng": -74.16793,
+        "Departamento": "Bogotá D.C.",
+        "Sectorocategoríaprincipal": "Economía",
+        "Resumen": "Las comunidades de las zonas rurales de 30 municipios, de 23 departamentos del país, serán beneficiadas por el Programa Nacional de Bibliotecas Itinerantes - PNBI en su fase de implementación, a desarrollarse durante 2024 que desarrolla diferentes acciones para contribuir al acceso al conocimiento, la información y la cultura oral y escrita",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-seleccionadas-bri-2024"
+    },
+    {
+        "lat": 4.6664,
+        "lng": -74.084,
+        "Departamento": "Bogotá D.C.",
+        "Sectorocategoríaprincipal": "Economía Popular",
+        "Resumen": "Las comunidades de las zonas rurales de 30 municipios, de 23 departamentos del país, serán beneficiadas por el Programa Nacional de Bibliotecas Itinerantes - PNBI en su fase de implementación, a desarrollarse durante 2024 que desarrolla diferentes acciones para contribuir al acceso al conocimiento, la información y la cultura oral y escrita",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-seleccionadas-bri-2024"
+    },
+    {
+        "lat": 4.7071,
+        "lng": -74.1072,
+        "Departamento": "Bogotá D.C.",
+        "Sectorocategoríaprincipal": "Economía Popular",
+        "Resumen": "Las comunidades de las zonas rurales de 30 municipios, de 23 departamentos del país, serán beneficiadas por el Programa Nacional de Bibliotecas Itinerantes - PNBI en su fase de implementación, a desarrollarse durante 2024 que desarrolla diferentes acciones para contribuir al acceso al conocimiento, la información y la cultura oral y escrita",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-seleccionadas-bri-2024"
+    },
+    {
+        "lat": 4.034746,
+        "lng": -74.315224,
+        "Departamento": "Bogotá D.C.",
+        "Sectorocategoríaprincipal": "Educación",
+        "Resumen": "Las comunidades de las zonas rurales de 30 municipios, de 23 departamentos del país, serán beneficiadas por el Programa Nacional de Bibliotecas Itinerantes - PNBI en su fase de implementación, a desarrollarse durante 2024 que desarrolla diferentes acciones para contribuir al acceso al conocimiento, la información y la cultura oral y escrita",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-seleccionadas-bri-2024"
+    },
+    {
+        "lat": 4.6448,
+        "lng": -74.0938,
+        "Departamento": "Bogotá D.C.",
+        "Sectorocategoríaprincipal": "Educación",
+        "Resumen": "Las comunidades de las zonas rurales de 30 municipios, de 23 departamentos del país, serán beneficiadas por el Programa Nacional de Bibliotecas Itinerantes - PNBI en su fase de implementación, a desarrollarse durante 2024 que desarrolla diferentes acciones para contribuir al acceso al conocimiento, la información y la cultura oral y escrita",
+        "Link": "https://bibliotecanacional.gov.co/es-co/actividades/noticias/en-la-rnbp/bibliotecas-seleccionadas-bri-2024"
+    },
+    {
+        "lat": 4.5939,
+        "lng": -74.0739,
+        "Departamento": "Bogotá D.C.",
+        "Sectorocategoríaprincipal": "Educación",
+        "Resumen": "En el año 2022 en el marco del  programa RED DE TALLERES DE ESCRITURA CREATIVA y TERTULIAS LITERARIAS -RELATA- se realizaron 140 talleres y tertulias en 28 departamentos y 65 municipios con una inversión de $245 millones",
+        "Link": "https://twitter.com/BibliotecaNalCo/status/1764280524862787806"
+    },
+    {
+        "lat": 4.5963,
+        "lng": -74.0298,
+        "Departamento": "Bogotá D.C.",
+        "Sectorocategoríaprincipal": "Educación",
+        "Resumen": "En el año 2022 en el marco del  programa RED DE TALLERES DE ESCRITURA CREATIVA y TERTULIAS LITERARIAS -RELATA- se realizaron 140 talleres y tertulias en 28 departamentos y 65 municipios con una inversión de $245 millones",
+        "Link": "https://twitter.com/BibliotecaNalCo/status/1764280524862787806"
+    },
+    {
+        "lat": 4.7652,
+        "lng": -74.0824,
+        "Departamento": "Bogotá D.C.",
+        "Sectorocategoríaprincipal": "Justicia",
+        "Resumen": "En el año 2022 en el marco del  programa RED DE TALLERES DE ESCRITURA CREATIVA y TERTULIAS LITERARIAS -RELATA- se realizaron 140 talleres y tertulias en 28 departamentos y 65 municipios con una inversión de $245 millones",
+        "Link": "https://twitter.com/BibliotecaNalCo/status/1764280524862787806"
+    }
+]
