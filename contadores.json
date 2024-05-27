@@ -1,0 +1,40 @@
+{
+  "contadores": [
+    {
+      "titulo": "Reforma Agraria",
+      "numero": "1.107.420",
+      "unidad": "Hectáreas",
+      "link": "https://www.minagricultura.gov.co/Paginas/2023/ContadorReformaAgraria.aspx"
+    },
+    {
+      "titulo": "Turismo",
+      "numero": "1.384.578",
+      "unidad": "Visitantes no residentes",
+      "link": "https://portucolombia.mincit.gov.co/tematicas/flujo-de-turistas-y-pasajeros/visitantes-no-residentes"
+    },
+    {
+      "titulo": "Exportaciones",
+      "numero": "11.262,90",
+      "unidad": "Millones de dólares FOB",
+      "link": "https://www.dane.gov.co/index.php/estadisticas-por-tema/comercio-internacional/exportaciones"
+    },
+    {
+      "titulo": "Inversión extranjera",
+      "numero": "4.697",
+      "unidad": "Millones de USD",
+      "link": "https://www.banrep.gov.co/es/estadisticas/balanza-cambiaria"
+    },
+    {
+      "titulo": "Incautación de drogas",
+      "numero": "1.000",
+      "unidad": "Kilos",
+      "link": "http://www.#.com"
+    },
+    {
+      "titulo": "Reducción de la deforestación",
+      "numero": "1.000",
+      "unidad": "Hectáreas",
+      "link": "http://www.#.com"
+    }
+  ]
+}
