@@ -1,0 +1,904 @@
+[
+  {
+    "id": 1,
+    "category": "geociencias-basicas",
+    "system": "Visores",
+    "title": "Mapa Geológico Sur Americano",
+    "description": "Visualización cartográfica de la geología del subcontinente sudamericano a escala 1:5.000.000.",
+    "image": "https://images.pexels.com/photos/2098403/pexels-photo-2098403.jpeg",
+    "products": [
+      {
+        "name": "Visor geocientifíco",
+        "url": "http://srvags.sgc.gov.co/jsviewer/GMSA/"
+      }
+    ],
+    "url": "http://srvags.sgc.gov.co/jsviewer/GMSA/"
+  },
+  {
+    "id": 2,
+    "category": "geociencias-basicas",
+    "system": "Visores",
+    "title": "Mapa Geológico de Colombia",
+    "description": "Mapa digital que muestra la distribución y características de las unidades geológicas en el territorio colombiano.",
+    "image": "https://images.pexels.com/photos/2098403/pexels-photo-2098403.jpeg",
+    "products": [
+      {
+        "name": "Mapa Geológico de Colombia Ver 2023",
+        "url": "https://srvags.sgc.gov.co/jsViewer/Mapa_Geologico_colombiano_2023/"
+      },
+      {
+        "name": "Mapa Geológico de Colombia Ver 2020",
+        "url": "https://srvags.sgc.gov.co/JSViewer/Mapa_Geologico_Colombiano_2020/"
+      },
+      {
+        "name": "Mapa Geológico de Colombia Ver 2015", 
+        "url": "http://srvags.sgc.gov.co/JSViewer/Mapa_Geologico_colombiano_2015/"
+      },
+      {
+        "name": "Mapa Geológico de Colombia Ver 2007",
+        "url": "https://srvags.sgc.gov.co/Flexviewer/Mapa_Geologico_Colombia/"
+      }
+    ],
+    "url": "https://srvags.sgc.gov.co/jsViewer/Mapa_Geologico_colombiano_2023/"
+  },
+  {
+    "id": 3,
+    "category": "geociencias-basicas",
+    "system": "Visores",
+    "title": "Geotermia",
+    "description": "Datos e información sobre los recursos y manifestaciones geotérmicas presentes en Colombia.",
+    "image": "https://images.pexels.com/photos/2098403/pexels-photo-2098403.jpeg", 
+    "products": [
+      {
+        "name": "Potencial Geotérmico Colombia",
+        "url": "https://sgcolombiano.maps.arcgis.com/apps/dashboards/0186f2c2b6e74866b849025b0bf6fd90"
+      }
+    ],
+    "url": "https://www.sgc.gov.co"
+  },
+  {
+    "id": 4,
+    "category": "geociencias-basicas",
+    "system": "Visores",
+    "title": "Litorales Colombianos",
+    "description": "Caracterización de los ambientes costeros y procesos de erosión en los litorales del Caribe y Pacífico colombianos.",
+    "image": "https://images.pexels.com/photos/2098403/pexels-photo-2098403.jpeg",
+    "products": [
+      {
+        "name": "Visor Geográfico",
+        "url": "http://srvags.sgc.gov.co/Flexviewer/Geomorfodinamica/"
+      }
+    ],
+    "url": "https://www.sgc.gov.co"
+  },
+  {
+    "id": 5,
+    "category": "geociencias-basicas",
+    "system": "Visores",
+    "title": "Hidrogeología",
+    "description": "Estudios, mapas y datos sobre las aguas subterráneas y acuíferos en el territorio nacional.",
+    "image": "https://images.pexels.com/photos/2098403/pexels-photo-2098403.jpeg",
+    "products": [
+      {
+        "name": "Visor Geográfico Aguas Subterráneas",
+        "url": "http://geoportal.sgc.gov.co/Flexviewer/PEXAS/"
+      },
+      {
+        "name": "Visor Geográfico Boyacá",
+        "url": "http://srvags.sgc.gov.co/JSViewer/Modelo_Hidrogeologico_Zona_Centro_Departamento_Boyaca/"
+      },
+      {
+        "name": "Visor Geográfico Guajira",
+        "url": "http://sgcolombiano.maps.arcgis.com/apps/MapSeries/index.html?appid=fcd48e0987c14759963007d04167469f"
+      },
+      {
+        "name": "Visor Geográfico Inírida",
+        "url": "http://srvags.sgc.gov.co/JSViewer/Modelo_Hidrogeologico_Area_Inirida/"
+      },
+      {
+        "name": "Visor Geográfico Quindío",
+        "url": "http://srvags.sgc.gov.co/JSViewer/Modelo_Hidrogeologico_Departamento_Quindio/"
+      },
+      {
+        "name": "Visor Geográfico San José del Guaviare",
+        "url": "http://srvags.sgc.gov.co/JSViewer/Modelo_Hidrogeologico_Area_San_Jose_Guaviare/"
+      }
+    ],
+    "url": "https://www.sgc.gov.co"
+  },
+  {
+    "id": 6,
+    "category": "geociencias-basicas",
+    "system": "Visores",
+    "title": "Modelos Hidrogeologícos",
+    "description": "Estudios, mapas y datos sobre las aguas subterráneas y acuíferos en el territorio nacional.",
+    "image": "https://images.pexels.com/photos/2098403/pexels-photo-2098403.jpeg",
+    "products": [
+      {
+        "name": "Modelo Hidrogeológico de la Sabana de Bogotá",
+        "url": "http://srvags.sgc.gov.co/Jsviewer/Modelo_Hidrogeologico_Conceptual_Sabana_Bogota/"
+      },
+      {
+        "name": "Modelo Hidrogeológico de Yopal-Casanare",
+        "url": "http://srvags.sgc.gov.co/JSViewer/Modelo_Hidrogeologico_de_Yopal_Casanare_V2018/"
+      },
+      {
+        "name": "Modelo Hidrogeológico del Área de Alto Patia",
+        "url": "http://srvags.sgc.gov.co/jsviewer/Modelo_Hidrogeologico_de_La_Alta_Guajira/"
+      },
+      {
+        "name": "Modelo Hidrogeológico de La Alta Guajira",
+        "url": "http://srvags.sgc.gov.co/jsviewer/Modelo_Hidrogeologico_de_La_Alta_Guajira/"
+      },
+      {
+        "name": "Modelo Hidrogeológico Sectores Centro y Norte Departamento de Boyacá",
+        "url": "http://srvags.sgc.gov.co/JSviewer/Modelo_Hidrogeologico_Sectores_Centro_y_Norte_Departamento_Boyaca"
+      },
+      {
+        "name": "Modelo Hidrogeológico Área de Puerto López",
+        "url": "https://srvags.sgc.gov.co/JSViewer/Modelo_Hidrogeologico_Area_de_Puerto_Lopez"
+      }
+    ],
+    "url": "https://www.sgc.gov.co" 
+  },
+  {
+    "id": 7,
+    "category": "geociencias-basicas",
+    "system": "Documentos",
+    "title": "Documentos Hidrogeología",
+    "description": "Estudios, mapas y datos sobre las aguas subterráneas y acuíferos en el territorio nacional.",
+    "image": "https://images.pexels.com/photos/2098403/pexels-photo-2098403.jpeg",
+    "products": [
+      {
+        "name": "Visor Boyacá PDF",
+        "url": "http://sgcolombiano.maps.arcgis.com/apps/MapSeries/index.html?appid=05fc75e7f4254e0c9af1804fd408dd64"
+      },
+      {
+        "name": "Hidrogeología Guajira PDF",
+        "url": "https://www2.sgc.gov.co/sgc/mapas/Paginas/Descarga-Hidrogeologia.aspx"
+      },
+      {
+        "name": "Visor Quindío PDF",
+        "url": "http://sgcolombiano.maps.arcgis.com/apps/MapSeries/index.html?appid=4b1cb9f0af13411cbf46704972267342"
+      }
+    ],
+    "url": "https://www.sgc.gov.co"
+  },
+  {
+    "id": 8,
+    "category": "geociencias-basicas",
+    "system": "Visores",
+    "title": "Manifestaciones Hidrotermales",
+    "description": "Catálogo georreferenciado de las fuentes termales y manifestaciones hidrotermales del país.",
+    "image": "https://images.pexels.com/photos/2098403/pexels-photo-2098403.jpeg",
+    "products": [
+      {
+        "name": "Descripción del aplicativo",
+        "url": "http://hidrotermales.sgc.gov.co/"
+      },
+      {
+        "name": "Visor Geográfico",
+        "url": "http://hidrotermales.sgc.gov.co/invtermales/"
+      }
+    ],
+    "url": "http://hidrotermales.sgc.gov.co/invtermales/"
+  },
+  {
+    "id": 9,
+    "category": "geociencias-basicas",
+    "system": "Visores",
+    "title": "Atlas Geológico Colombiano",
+    "description": "Compendio cartográfico de la geología de Colombia a diferentes escalas y temas.",
+    "image": "https://images.pexels.com/photos/2098403/pexels-photo-2098403.jpeg",
+    "products": [
+      {
+        "name": "Atlas Geológico Colombiano Ver 2020",
+        "url": "https://srvags.sgc.gov.co/JSViewer/Atlas_Geologico_colombiano_2020"
+      },
+      {
+        "name": "Atlas Geológico Colombiano Ver 2015",
+        "url": "https://srvags.sgc.gov.co/JSViewer/Atlas_Geologico_colombiano_2015"
+      },
+      {
+        "name": "Atlas Geológico Colombiano Ver 2007",
+        "url": "https://srvags.sgc.gov.co/Flexviewer/Atlas_Geologico_Colombia"
+      }
+    ],
+    "url": "https://srvags.sgc.gov.co/JSViewer/Atlas_Geologico_colombiano_2020/"
+  },
+  {
+    "id": 10,
+    "category": "geociencias-basicas",
+    "system": "páginas",
+    "title": "Datos de Métodos Geofísicos",
+    "description": "Conjunto de datos provenientes de estudios geofísicos realizados en distintas zonas del país.",
+    "image": "https://images.pexels.com/photos/2098403/pexels-photo-2098403.jpeg",
+    "products": [
+      {
+        "name": "Datos de Métodos Geofísicos",
+        "url": "http://srvags.sgc.gov.co/Flexviewer/Geofisica/"
+      }
+    ],
+    "url": "http://srvags.sgc.gov.co/Flexviewer/Geofisica/"
+  },
+  {
+    "id": 11,
+    "category": "geociencias-basicas",
+    "system": "páginas", 
+    "title": "Proyectos de Geología",
+    "description": "Resultados y productos derivados de proyectos de investigación y cartografía geológica nacional.",
+    "image": "https://images.pexels.com/photos/2098403/pexels-photo-2098403.jpeg",
+    "products": [
+      {
+        "name": "Visor Mapas Geológicos por Departamentos",
+        "url": "http://srvags.sgc.gov.co/JSviewer/Mapas_Geologicos_Departamentales/"
+      },
+      {
+        "name": "Mapa Geológico Departamental de San Andrés",
+        "url": "https://srvags.sgc.gov.co/JSViewer/Mapa_Geologico_Dptal_de_SanAndres_Providencia_StaCatalina"
+      },
+      {
+        "name": "Mapa Geológico Sabana Bogotá",
+        "url": "http://srvags.sgc.gov.co/Jsviewer/Mapa_Geologico_Sabana_Bogota/"
+      },
+      {
+        "name": "Mapa Geológico del Tunel de La Línea",
+        "url": "https://srvags.sgc.gov.co/JSViewer/Mapa_Geologico_del_Area_del_Tunel_de_La_Linea"
+      },
+      {
+        "name": "Exploración Geológica de Fosfatos - Bloque Boyacá - PL 191 y 210",
+        "url": "https://srvags.sgc.gov.co/JSviewer/Exploracion_Geologica_de_Fosfatos_Bloque_Boyaca_PL_191_y_210/"
+      }
+    ],
+    "url": "https://www.sgc.gov.co"
+  },
+  {
+    "id": 12,
+    "category": "recursos-minerales",
+    "system": "Visores",
+    "title": "Áreas con potencial Mineral",
+    "description": "Zonas con indicios de mineralización en Colombia.",
+    "image": "https://images.pexels.com/photos/997704/pexels-photo-997704.jpeg",
+    "products": [
+      {
+        "name": "Áreas con potencial mineral para definir Áreas de Reserva Estratégica del Estado",
+        "url": "https://srvags.sgc.gov.co/JSviewer/Areas_con_Potencial_Mineral_Version_2011/"
+      },
+      {
+        "name": "Mapa de Zonas Potenciales Integrales para Recursos Minerales",
+        "url": "https://srvags.sgc.gov.co/JSviewer/Mapa_de_Zonas_Potenciales_Integrales_para_Recursos_Minerales_V2011/"
+      }
+      ],
+      "url": "https://srvags.sgc.gov.co/JSviewer/Areas_con_Potencial_Mineral_Version_2011"
+      },
+      {
+      "id": 13,
+      "category": "recursos-minerales",
+      "system": "Visores",
+      "title": "Recursos Minerales Información Integrada",
+      "description": "Compilación de datos sobre recursos minerales del país.",
+      "image": "https://images.pexels.com/photos/997704/pexels-photo-997704.jpeg",
+      "products": [
+      {
+      "name": "Visor Geográfico",
+      "url": "http://srvags.sgc.gov.co/jsviewer/Recursos_Minerales"
+      },
+      {
+      "name": "Visor Geográfico (Inglés)",
+      "url": "https://srvags.sgc.gov.co/JSViewer/Recursos_Minerales_Ingles"
+      }
+      ],
+      "url": "http://srvags.sgc.gov.co/jsviewer/Recursos_Minerales"
+      },
+      {
+      "id": 14,
+      "category": "recursos-minerales",
+      "system": "Visores",
+      "title": "Anomalías Geofísicas de Colombia",
+      "description": "Mapa de anomalías geofísicas interpretadas.",
+      "image": "https://images.pexels.com/photos/997704/pexels-photo-997704.jpeg",
+      "products": [
+      {
+      "name": "Descripción",
+      "url": "https://srvags.sgc.gov.co/Archivos_Geoportal/Recursos_Minerales/Geofisica/Geofisica2022/DESCRIPCION.pdf"
+      },
+      {
+      "name": "Visor Geográfico 2022",
+      "url": "https://srvags.sgc.gov.co/jsviewer/Mapa_de_Anomalias_Geofisicas_de_Colombia_2022"
+      },
+      {
+      "name": "Descarga de Información",
+      "url": "https://www2.sgc.gov.co/sgc/mapas/Paginas/Kml_Geofisica.aspx"
+      }
+      ],
+      "url": "https://srvags.sgc.gov.co/jsviewer/Mapa_de_Anomalias_Geofisicas_de_Colombia_2022"
+      },
+      {
+      "id": 15,
+      "category": "recursos-minerales",
+      "system": "Documentos",
+      "title": "Documentos Anomalías Geofísicas",
+      "description": "Mapa de anomalías geofísicas interpretadas.",
+      "image": "https://images.pexels.com/photos/997704/pexels-photo-997704.jpeg",
+      "products": [
+      {
+      "name": "Descripción",
+      "url": "https://srvags.sgc.gov.co/Archivos_Geoportal/Recursos_Minerales/Geofisica/Geofisica2022/DESCRIPCION.pdf"
+      }
+      ],
+      "url": "https://srvags.sgc.gov.co/Archivos_Geoportal/Recursos_Minerales/Geofisica/Geofisica2022/DESCRIPCION.pdf"
+      },
+      {
+      "id": 16,
+      "category": "recursos-minerales",
+      "system": "páginas",
+      "title": "Consulta elementos químicos de interés",
+      "description": "Información técnica sobre elementos químicos relevantes.",
+      "image": "https://images.pexels.com/photos/997704/pexels-photo-997704.jpeg",
+      "products": [
+      {
+      "name": "Visor Geográfico",
+      "url": "http://sgcolombiano.maps.arcgis.com/apps/webappviewer/index.html?id=8ec81e5dcf2b441ab04617322e7fbd82"
+      }
+      ],
+      "url": "http://sgcolombiano.maps.arcgis.com/apps/webappviewer/index.html?id=8ec81e5dcf2b441ab04617322e7fbd82"
+      },
+      {
+      "id": 17,
+      "category": "recursos-minerales",
+      "system": "Visores",
+      "title": "Evaluación y exploración de Carbones",
+      "description": "Estudios sobre recursos carboníferos del país.",
+      "image": "https://images.pexels.com/photos/997704/pexels-photo-997704.jpeg",
+      "products": [
+      {
+      "name": "Área de Chaguaní, Córdoba y Guayabales - CundinamarcaV2012",
+      "url": "http://srvags.sgc.gov.co/JSviewer/EECB_Area_Chaguani_Cordoba_Guayabales_Departamento_Cundinamarca_V2012"
+      },
+      {
+      "name": "Área de Betania –Boyacá V2013",
+      "url": "http://srvags.sgc.gov.co/JSviewer/EECB_Area_Betania_Departamento_Boyaca_V2013"
+      },
+      {
+      "name": "Área de Vanegas, San Vicente de Chucurí, Río Cascajales - Santander V2015",
+      "url": "http://srvags.sgc.gov.co/JSviewer/EECB_Area_Vanegas_SanVicenteChucuri_RioCascajales_Departamento_Santander_V2015"
+      },
+      {
+      "name": "Área de Sabanalarga – CasanareV2016",
+      "url": "http://srvags.sgc.gov.co/JSviewer/EECB_Area_Sabanalarga_Departamento_Casanare_V2016"
+      },
+      {
+      "name": "Área de Cimitarra Sur, Sur del Área Río Opón y Landázuri - SantanderV2016",
+      "url": "http://srvags.sgc.gov.co/JSviewer/EECB_Area_CimitarraSur_SurAreaRioOpon_Landazuri_Departamento_Santander_V2016"
+      },
+      {
+      "name": "Exploración de Gas Metano (CH4) Asociado al Carbón_Área Carmen de Chucurí_Depto. de Santander",
+      "url": "https://srvags.sgc.gov.co/JSviewer/GMAC_Area_Carmen_de_Chucuri_Santander_V2016"
+      },
+      {
+      "name": "Exploración de Gas Metano (CH4) Asociado al Carbón_Área Landázuri-Vélez_Depto. de Santander",
+      "url": "https://srvags.sgc.gov.co/JSviewer/GMAC_Area_Landazuri_Velez_Santander_V2016"
+      },
+      {
+      "name": "Exploración de Gas Metano (CH4) Asociado al Carbón_Área Tasco-Socota_Depto. de Boyacá",
+      "url": "https://srvags.sgc.gov.co/JSviewer/GMAC_Area_Tasco_Socota_Boyaca_V2014"
+      },
+      {
+      "name": "Exploración de Gas Metano (CH4) Asociado al Carbón_Área Úmbita-Rondón_Depto. de Boyacá",
+      "url": "https://srvags.sgc.gov.co/JSviewer/GMAC_Area_Umbita_Rondon_Boyaca_V2014"
+      }
+      ],
+      "url": "https://www.sgc.gov.co"
+      },
+      {
+      "id": 18,
+      "category": "recursos-minerales",
+      "system": "Visores",
+      "title": "Mapa Carbonífero de Colombia",
+      "description": "Cartografía de cuencas y zonas con carbón mineral.",
+      "image": "https://images.pexels.com/photos/997704/pexels-photo-997704.jpeg",
+      "products": [
+      {
+      "name": "Descripción del Mapa Carbonífero de Colombia",
+      "url": "https://www2.sgc.gov.co/sgc/mapas/Documents/PDF%20DESCRIPCION/MapaCarboniferodeColombia.pdf"
+      },
+      {
+      "name": "Visor Geográfico del Mapa Carbonífero de Colombia",
+      "url": "http://srvags.sgc.gov.co/Flexviewer/Mapa_Potencial_Carbonifero_Colombia"
+      }
+      ],
+      "url": "http://srvags.sgc.gov.co/Flexviewer/Mapa_Potencial_Carbonifero_Colombia"
+      },
+      {
+      "id": 19,
+      "category": "recursos-minerales",
+      "system": "Documentos",
+      "title": "Descripción Mapa Carbonífero de Colombia",
+      "description": "Cartografía de cuencas y zonas con carbón mineral.",
+      "image": "https://images.pexels.com/photos/997704/pexels-photo-997704.jpeg",
+      "products": [
+      {
+      "name": "Descripción del Mapa Carbonífero de Colombia",
+      "url": "https://www2.sgc.gov.co/sgc/mapas/Documents/PDF%20DESCRIPCION/MapaCarboniferodeColombia.pdf"
+      }
+      ],
+      "url": "http://srvags.sgc.gov.co/Flexviewer/Mapa_Potencial_Carbonifero_Colombia"
+      },
+      {
+      "id": 20,
+      "category": "recursos-minerales",
+      "system": "Visores",
+      "title": "Mapa Metalogénico de Colombia",
+      "description": "Cartografía de distritos y depósitos minerales metálicos.",
+      "image": "https://images.pexels.com/photos/997704/pexels-photo-997704.jpeg",
+      "products": [
+      {
+      "name": "Visor Mapa metalogénico 2022",
+      "url": "https://srvags.sgc.gov.co/jsViewer/Mapa_Metalogenico_Colombia_2022"
+      },
+      {
+      "name": "Visor Mapa metalogénico 2020",
+      "url": "https://srvags.sgc.gov.co/JSViewer/Mapa_Metalogenico_2018/"
+      },
+      {
+      "name": "Descarga de Información",
+      "url": "https://www2.sgc.gov.co/sgc/mapas/Paginas/Mapa_metalogenico_colombia.aspx"
+      }
+      ],
+      "url": "https://srvags.sgc.gov.co/jsViewer/Mapa_Metalogenico_Colombia_2022"
+      },
+      {
+      "id": 21,
+      "category": "recursos-minerales",
+      "system": "Visores",
+      "title": "Atlas Geoquímico de Colombia",
+      "description": "Mapas de distribución de elementos químicos.",
+      "image": "https://images.pexels.com/photos/997704/pexels-photo-997704.jpeg",
+      "products": [
+      {
+      "name": "AGC V 2020 Nota Explicativa",
+      "url": "https://www2.sgc.gov.co/sgc/mapas/Documents/Atlas-Geoquimico-de-Colombia-version-2020-Nota-Explicativa.pdf"
+      },
+      {
+      "name": "Visor Geográfico V2020",
+      "url": "https://srvags.sgc.gov.co/jsviewer/atlas_geoquimico_2020"
+      },
+      {
+      "name": "Descarga Información en PDF",
+      "url": "https://www2.sgc.gov.co/sgc/mapas/Paginas/AtlasGeoquimico.aspx"
+      },
+      {
+      "name": "Descarga KMZ Google Earth",
+      "url": "https://www2.sgc.gov.co/sgc/mapas/Paginas/Atlas_Geoquimico_Kmz.aspx"
+      }
+      ],
+      "url": "https://srvags.sgc.gov.co/jsviewer/atlas_geoquimico_2020"
+      },
+      {
+      "id": 22,
+      "category": "recursos-minerales",
+      "system": "Documentos",
+      "title": "Nota Explicativa Atlas Geoquímico de Colombia",
+      "description": "Nota explicativa de los Mapas de distribución de elementos químicos.",
+      "image": "https://images.pexels.com/photos/997704/pexels-photo-997704.jpeg",
+      "products": [
+      {
+      "name": "Nota Explicativa v2020",
+      "url": "https://www2.sgc.gov.co/sgc/mapas/Documents/Atlas-Geoquimico-de-Colombia-version-2020-Nota-Explicativa.pdf"
+      }
+      ],
+      "url": "https://srvags.sgc.gov.co/jsviewer/atlas_geoquimico_2020"
+      },
+      {
+      "id": 23,
+      "category": "geoamenazas",
+      "system": "Visores",
+      "title": "Geomecánica",
+      "description": "Datos e información sobre propiedades mecánicas de macizos rocosos.",
+      "image": "https://images.pexels.com/photos/11518764/pexels-photo-11518764.jpeg",
+      "products": [
+      {
+      "name": "Geomecánica de la Sabana de Bogotá",
+      "url": "http://srvags.sgc.gov.co/JSviewer/Geomecanica_de_La_Sabana_de_Bogota"
+      },
+      {
+      "name": "Geomecánica del Departamento del Quindío",
+      "url": "http://srvags.sgc.gov.co/JSviewer/Geomecanica_Departamento_Quindio"
+      },
+      {
+      "name": "Texto",
+      "url": "#"
+      }
+      ],
+      "url": "https://www.sgc.gov.co"
+      },
+      {
+      "id": 24,
+      "category": "geoamenazas",
+      "system": "Visores",
+      "title": "Estaciones GNSS del SGC",
+      "description": "Red nacional de estaciones permanentes GNSS.",
+      "image": "https://images.pexels.com/photos/11518764/pexels-photo-11518764.jpeg",
+      "products": [
+      {
+      "name": "Visor Geográfico",
+      "url": "http://srvags.sgc.gov.co/JSViewer/Amenaza_volcanica_JS/"
+      }
+      ],
+      "url": "http://srvags.sgc.gov.co/JSViewer/Amenaza_volcanica_JS/"
+      },
+      {
+      "id": 25,
+      "category": "geoamenazas",
+      "system": "Visores",
+      "title": "Mapas de Amenaza Volcánica",
+      "description": "Cartografía de zonas amenazadas por actividad volcánica.",
+      "image": "https://images.pexels.com/photos/11518764/pexels-photo-11518764.jpeg",
+      "products": [
+      {
+      "name": "Mapas de Amenaza Volcánica",
+      "url": "http://srvags.sgc.gov.co/JSViewer/Amenaza_volcanica_JS"
+      },
+      {
+      "name": "Texto",
+      "url": "#"
+      }
+      ],
+      "url": "http://srvags.sgc.gov.co/JSViewer/Amenaza_volcanica_JS"
+      },
+      {
+      "id": 26,
+      "category": "geoamenazas",
+      "system": "Visores",
+      "title": "Neotectónica",
+      "description": "Estudios sobre deformación tectónica activa del territorio.",
+      "image": "https://images.pexels.com/photos/11518764/pexels-photo-11518764.jpeg",
+      "products": [
+      {
+      "name": "Neotectónica del Piedemonte Llanero",
+      "url": "https://srvags.sgc.gov.co/JSViewer/Neotectonica_del_Piedemonte_Llanero"
+      }
+      ],
+      "url": "https://www.sgc.gov.co"
+      },
+      {
+      "id": 27,
+      "category": "geoamenazas",
+      "system": "Visores",
+      "title": "Sismicidad Histórica de Colombia",
+      "description": "Catálogo de eventos sísmicos relevantes ocurridos históricamente.",
+      "image": "https://images.pexels.com/photos/11518764/pexels-photo-11518764.jpeg",
+      "products": [
+      {
+      "name": "Descripción",
+      "url": "https://www2.sgc.gov.co/sgc/mapas/Documents/PDF%20DESCRIPCION/SismicidadHistoricadeColombia.pdf"
+      },
+      {
+      "name": "Enlace a página web",
+      "url": "http://sish.sgc.gov.co/visor/"
+      }
+      ],
+      "url": "http://sish.sgc.gov.co/visor"
+      },
+      {
+      "id": 28,
+      "category": "geoamenazas",
+      "system": "Documentos",
+      "title": "Descripción Sismicidad Histórica de Colombia",
+      "description": "Catálogo de eventos sísmicos relevantes ocurridos históricamente.",
+      "image": "https://images.pexels.com/photos/11518764/pexels-photo-11518764.jpeg",
+      "products": [
+      {
+      "name": "Descripción",
+      "url": "https://www2.sgc.gov.co/sgc/mapas/Documents/PDF%20DESCRIPCION/SismicidadHistoricadeColombia.pdf"
+      }
+      ],
+      "url": "https://www2.sgc.gov.co/sgc/mapas/Documents/PDF%20DESCRIPCION/SismicidadHistoricadeColombia.pdf"
+      },
+      {
+      "id": 29,
+      "category": "geoamenazas",
+      "system": "Visores",
+      "title": "Amenaza Sísmica",
+      "description": "Evaluación de zonas amenazadas por efectos de sismicidad.",
+      "image": "https://images.pexels.com/photos/11518764/pexels-photo-11518764.jpeg",
+      "products": [
+      {
+      "name": "Visor Amenaza Sísmica",
+      "url": "http://srvags.sgc.gov.co/jsviewer/Amenaza_Sismica_2020"
+      }
+      ],
+      "url": "http://srvags.sgc.gov.co/jsviewer/Amenaza_Sismica_2020"
+      },
+      {
+      "id": 30,
+      "category": "geoamenazas",
+      "system": "Visores",
+      "title": "Mapa de Amenaza por Movimientos en Masa",
+      "description": "Cartografía de zonas con amenaza por procesos denudativos.",
+      "image": "https://images.pexels.com/photos/11518764/pexels-photo-11518764.jpeg",
+      "products": [
+      {
+      "name": "Visor Geográfico",
+      "url": "https://simma.sgc.gov.co/#/public/basic"
+      },
+      {
+      "name": "Mapas Departamentales de Amenaza",
+      "url": "https://www2.sgc.gov.co/sgc/mapas/Paginas/Imagenes-de-amenazas-.aspx"
+      }
+      ],
+      "url": "https://simma.sgc.gov.co/#/public/basic"
+      },
+      {
+      "id": 31,
+      "category": "geoamenazas",
+      "system": "Visores",
+      "title": "Mapa de Intensidad Instrumental",
+      "description": "Distribución espacial de niveles de intensidad sísmica observados.",
+      "image": "https://images.pexels.com/photos/11518764/pexels-photo-11518764.jpeg",
+      "products": [
+      {
+      "name": "Descripción",
+      "url": "https://www2.sgc.gov.co/sgc/mapas/Documents/PDF%20DESCRIPCION/Mapasdeintensidadinstrumental.pdf"
+      },
+      {
+      "name": "Enlace a página web",
+      "url": "http://seisan.sgc.gov.co/RSNC/shakemap/sc/shake/index.html"
+      }
+      ],
+      "url": "http://seisan.sgc.gov.co/RSNC/shakemap/sc/shake/index.html"
+      },
+      {
+      "id": 32,
+      "category": "geoamenazas",
+      "system": "Documentos",
+      "title": "Descripción Mapa de Intensidad Instrumental",
+      "description": "Distribución espacial de niveles de intensidad sísmica observados.",
+      "image": "https://images.pexels.com/photos/11518764/pexels-photo-11518764.jpeg",
+      "products": [
+      {
+      "name": "Descripción",
+      "url": "https://www2.sgc.gov.co/sgc/mapas/Documents/PDF%20DESCRIPCION/Mapasdeintensidadinstrumental.pdf"
+      }
+      ],
+      "url": "https://www2.sgc.gov.co/sgc/mapas/Documents/PDF%20DESCRIPCION/Mapasdeintensidadinstrumental.pdf"
+      },
+      {
+      "id": 33,
+      "category": "geoamenazas",
+      "system": "Visores",
+      "title": "Sistema de Información de Movimientos en Masa - SIMMA",
+      "description": "Plataforma integral sobre procesos denudativos en Colombia.",
+      "image": "https://images.pexels.com/photos/11518764/pexels-photo-11518764.jpeg",
+      "products": [
+      {
+      "name": "Enlace a página web",
+      "url": "http://simma.sgc.gov.co"
+      },
+      {
+      "name": "Estadísticas",
+      "url": "https://www2.sgc.gov.co/sgc/mapas/Paginas/Estadisticas.aspx"
+      }
+      ],
+      "url": "http://simma.sgc.gov.co"
+      },
+      {
+      "id": 34,
+      "category": "geoamenazas",
+      "system": "Visores",
+      "title": "Zonificación de Amenazas por Movimientos en Masa CARDIQUE",
+      "description": "Cartografía de amenaza por movimientos en masa en jurisdicción CARDIQUE.",
+      "image": "https://images.pexels.com/photos/11518764/pexels-photo-11518764.jpeg",
+      "products": [
+      {
+      "name": "Visor Geográfico",
+      "url": "http://srvags.sgc.gov.co/JSViewer/Zonificacion_Amenaza_Movimientos_En_Masa_Cardique"
+      }
+      ],
+      "url": "http://srvags.sgc.gov.co/JSViewer/Zonificacion_Amenaza_Movimientos_En_Masa_Cardique"
+      },
+      {
+      "id": 35,
+      "category": "gestion-informacion",
+      "system": "Visores",
+      "title": "Grillas Origen Único IGAC",
+      "description": "Grillas de coordenadas origen único nacional.",
+      "image": "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg",
+      "products": [
+      {
+      "name": "Visor Geográfico",
+      "url": "https://srvags.sgc.gov.co/jsviewer/origen_Unico_Grillas_App"
+      },
+      {
+      "name": "Texto",
+      "url": "#"
+      }
+      ],
+      "url": "https://srvags.sgc.gov.co/jsviewer/origen_Unico_Grillas_App"
+      },
+      {
+      "id": 36,
+      "category": "gestion-informacion",
+      "system": "Visores",
+      "title": "Estado Cartografía Geológica",
+      "description": "Información sobre cobertura de cartografía geológica existente.",
+      "image": "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg",
+      "products": [
+      {
+      "name": "Descripción del Estado",
+      "url": "https://www2.sgc.gov.co/sgc/mapas/Documents/Excel/RegistrodeactivosSGC.xlsx"
+      },
+      {
+      "name": "Visor Geográfico del Estado",
+      "url": "http://srvags.sgc.gov.co/Flexviewer/Estado_Cartografia_Geologica"
+      }
+      ],
+      "url": "http://srvags.sgc.gov.co/Flexviewer/Estado_Cartografia_Geologica"
+      },
+      {
+      "id": 37,
+      "category": "gestion-informacion",
+      "system": "Visores",
+      "title": "Metadato Geográfico",
+      "description": "Metadatos de conjuntos y servicios de datos geográficos.",
+      "image": "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg",
+      "products": [
+      {
+      "name": "Visor Geográfico Metadato MIIG",
+      "url": "http://srvags.sgc.gov.co/JSViewer/Metadato_Geografico"
+      }
+      ],
+      "url": "http://srvags.sgc.gov.co/JSViewer/Metadato_Geografico"
+      },
+      {
+      "id": 38,
+      "category": "gestion-informacion",
+      "system": "Documentos",
+      "title": "Políticas y Manuales",
+      "description": "Normativas y guías institucionales vigentes.",
+      "image": "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg",
+      "products": [
+      {
+      "name": "Manuales",
+      "url": "https://www2.sgc.gov.co/sgc/mapas/Paginas/Manuales.aspx"
+      },
+      {
+      "name": "Políticas",
+      "url": "https://www2.sgc.gov.co/sgc/mapas/Paginas/Politicas.aspx"
+      }
+      ],
+      "url": "#"
+      },
+      {
+      "id": 39,
+      "category": "gestion-informacion",
+      "system": "Documentos",
+      "title": "Productos Geocientíficos",
+      "description": "Catálogo de productos geocientíficos publicados.",
+      "image": "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg",
+      "products": [
+      {
+      "name": "Bases de Datos",
+      "url": "https://www2.sgc.gov.co/sgc/mapas/Paginas/Bases-Datos.aspx"
+      },
+      {
+      "name": "Publicaciones Productos Geocientíficos",
+      "url": "https://www2.sgc.gov.co/Publicaciones/Paginas/Productos-oficializados.aspx"
+      }
+      ],
+      "url": "#"
+      },
+      {
+      "id": 40,
+      "category": "gestion-informacion",
+      "system": "páginas",
+      "title": "Estadísticas Internas Geoportal",
+      "description": "Métricas de uso y acceso al geoportal.",
+      "image": "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg",
+      "products": [
+      {
+      "name": "Estadísticas",
+      "url": "https://www2.sgc.gov.co/sgc/mapas/Paginas/Estadisticas-Gestion-Informacion.aspx"
+      }
+      ],
+      "url": "https://www2.sgc.gov.co/sgc/mapas/Paginas/Estadisticas-Gestion-Informacion.aspx"
+      },
+      {
+      "id": 41,
+      "category": "gestion-informacion",
+      "system": "Visores",
+      "title": "Inventario Muestras Litoteca",
+      "description": "Catálogo muestras colección de rocas y minerales.",
+      "image": "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg",
+      "products": [
+      {
+      "name": "Visor Geográfico del Inventario",
+      "url": "http://srvags.sgc.gov.co/JSViewer/Inventario_Muestras_Litoteca"
+      }
+      ],
+      "url": "http://srvags.sgc.gov.co/JSViewer/Inventario_Muestras_Litoteca"
+      },
+      {
+      "id": 42,
+      "category": "gestion-informacion",
+      "system": "Visores",
+      "title": "Motor de Integración de Información Geocientífica - MIIG",
+      "description": "Herramienta de búsqueda y acceso integrado a información geocientífica.",
+      "image": "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg",
+      "products": [
+      {
+      "name": "Enlace a página",
+      "url": "http://miig.sgc.gov.co/Paginas/advanced.aspx"
+      },
+      {
+      "name": "Registro de activos de información",
+      "url": "https://www2.sgc.gov.co/sgc/mapas/Documents/Excel/RegistrodeactivosSGC.xlsx"
+      }
+      ],
+      "url": "http://miig.sgc.gov.co/Paginas/advanced.aspx"
+      },
+      {
+      "id": 43,
+      "category": "gestion-informacion",
+      "system": "Documentos",
+      "title": "Presentaciones",
+      "description": "Repositorio de presentaciones",
+      "image": "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg",
+      "products": [
+      {
+      "name": "Presentaciones IGME",
+      "url": "https://www2.sgc.gov.co/sgc/mapas/Paginas/Presentaci%C3%B3n-IGME.aspx"
+      },
+      {
+      "name": "Presentaciones Día SIG 2015",
+      "url": "https://www2.sgc.gov.co/sgc/mapas/Paginas/Presentaci%C3%B3n-D%C3%ADa-SIG-.aspx"
+      }
+      ],
+      "url": "#"
+      },
+      {
+      "id": 44,
+      "category": "bancos-informacion",
+      "system": "Visores",
+      "title": "Banco de Información Petrolera",
+      "description": "Repositorio de datos e información del sector hidrocarburos.",
+      "image": "https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg",
+      "products": [
+      {
+      "name": "Visor Geográfico",
+      "url": "http://srvags.sgc.gov.co/JSViewer/Geovisor_BIP"
+      }
+      ],
+      "url": "http://srvags.sgc.gov.co/JSViewer/Geovisor_BIP"
+      },
+      {
+      "id": 45,
+      "category": "bancos-informacion",
+      "system": "Visores",
+      "title": "Banco de Información Minera",
+      "description": "Sistema de gestión de datos del sector minero colombiano.",
+      "image": "https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg",
+      "products": [
+      {
+      "name": "Visor Geográfico",
+      "url": "https://bimc.sgc.gov.co"
+      }
+      ],
+      "url": "https://bimc.sgc.gov.co"
+      },
+      {
+      "id": 46,
+      "category": "laboratorios",
+      "system": "Visores",
+      "title": "Mapa de Calidad de Carbones de Colombia",
+      "description": "Cartografía de características fisicoquímicas de carbones por regiones.",
+      "image": "https://images.pexels.com/photos/8851076/pexels-photo-8851076.jpeg",
+      "products": [
+      {
+      "name": "Visor Geográfico",
+      "url": "https://srvagspru.sgc.gov.co/mapa-calidad-carbon/#/map"
+      }
+      ],
+      "url": "https://srvagspru.sgc.gov.co/mapa-calidad-carbon/#/map"
+      }
+      ]
